@@ -11,13 +11,15 @@ build step.
 - `index.html` is the homepage and personal index.
 - `builds/*/index.html` contains static build detail pages for the portfolio.
 - `ideas/*/index.html` contains static idea detail pages.
-- `journey/index.html` is the My Journey timeline page.
+- `journey/index.html` is the Journey timeline page.
+- `startups/*/index.html` contains static startup detail pages.
 - `assets/css/styles.css` contains design tokens, shared components, page
   layouts, and responsive rules.
 - `assets/js/main.js` updates the current year when JavaScript is available.
 - `assets/img/profile-matt.png` is the profile portrait used by the homepage.
-- `assets/img/builds/` contains generated monochrome concept images for builds.
+- `assets/img/builds/` contains generated and reused images for builds.
 - `assets/img/ideas/` contains generated monochrome concept images for ideas.
+- `assets/img/startups/` contains generated and reused images for startup pages.
 - `assets/favicon.svg` is the monochrome site favicon.
 
 ## Local preview
