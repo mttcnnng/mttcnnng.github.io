@@ -3,28 +3,46 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Matt&#39;s professional journey through financial technology, global IT leadership, trading systems, SaaS platforms and AI-powered research software.">
+    <meta
+      name="description"
+      content="The story of how Matt became the builder he is, told through the products, companies and ideas that kept leading into one another."
+    >
+    <meta name="theme-color" content="#ffffff">
     <link rel="canonical" href="https://mttcnnng.github.io/journey/">
     <meta property="og:title" content="Journey | Matt">
-    <meta property="og:description" content="Matt&#39;s professional journey through financial technology, global IT leadership, trading systems, SaaS platforms and AI-powered research software.">
+    <meta property="og:description" content="A winding path through the builds, startups and ideas that shaped how Matt makes software.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://mttcnnng.github.io/journey/">
-    <meta property="og:image" content="https://mttcnnng.github.io/assets/img/profile-matt.png">
-    <meta property="og:image:alt" content="Journey preview image">
+    <meta property="og:image" content="https://mttcnnng.github.io/assets/img/builds/harkster-playful.png">
+    <meta property="og:image:alt" content="Journey through Matt's builds, startups and ideas">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Journey | Matt">
-    <meta name="twitter:description" content="Matt&#39;s professional journey through financial technology, global IT leadership, trading systems, SaaS platforms and AI-powered research software.">
-    <meta name="twitter:image" content="https://mttcnnng.github.io/assets/img/profile-matt.png">
+    <meta name="twitter:description" content="A winding path through the builds, startups and ideas that shaped how Matt makes software.">
+    <meta name="twitter:image" content="https://mttcnnng.github.io/assets/img/builds/harkster-playful.png">
     <title>Journey | Matt</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/journey.css">
     <script src="../assets/js/main.js" defer></script>
+    <script src="../assets/js/journey.js" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <svg class="journey-icon-sprite" aria-hidden="true" focusable="false">
+      <symbol id="journey-icon-build" viewBox="0 0 24 24">
+        <path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085" />
+      </symbol>
+      <symbol id="journey-icon-startup" viewBox="0 0 24 24">
+        <path d="M3.75 21h16.5M4.5 3h15M5.25 3v18m13.5-18v18M9 6.75h1.5m-1.5 3h1.5m-1.5 3h1.5m3-6H15m-1.5 3H15m-1.5 3H15M9 21v-3.375c0-.621.504-1.125 1.125-1.125h3.75c.621 0 1.125.504 1.125 1.125V21" />
+      </symbol>
+      <symbol id="journey-icon-idea" viewBox="0 0 24 24">
+        <path d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18" />
+      </symbol>
+    </svg>
 
     <header class="site-header" aria-label="Site header">
       <div class="page-shell site-header__inner">
@@ -37,163 +55,353 @@
       </div>
     </header>
 
-    <main id="main-content" class="page-shell journey-page">
-      <section class="journey-hero" aria-labelledby="page-title">
-        <div>
-          <p class="eyebrow">Professional path</p>
-          <h1 id="page-title">How I became the builder I am.</h1>
-          <p>A chronological story of becoming a software developer, then a senior builder, founder, technology leader and AI product maker in financial services.</p>
+    <main id="main-content" class="page-shell journey-essay-page">
+      <header class="journey-essay-hero">
+        <p class="journey-essay-kicker">A builder&rsquo;s story</p>
+        <h1>How the builds connect.</h1>
+        <p class="journey-essay-hero__lead">
+          Looking back, the work feels less like a list of jobs and more like one long conversation with the same kinds of
+          problems. Each build taught me something, and many of those lessons found their way into the next.
+        </p>
+        <p class="journey-essay-hero__note">Seven chapters. Forty-six builds, startups and ideas. One route through them.</p>
+      </header>
+
+      <div class="journey-route-key">
+        <div class="journey-type-key" aria-label="Entry types">
+          <span><i class="journey-type-icon journey-type-icon--build" aria-hidden="true"><svg><use href="#journey-icon-build"></use></svg></i>Build</span>
+          <span><i class="journey-type-icon journey-type-icon--startup" aria-hidden="true"><svg><use href="#journey-icon-startup"></use></svg></i>Startup</span>
+          <span><i class="journey-type-icon journey-type-icon--idea" aria-hidden="true"><svg><use href="#journey-icon-idea"></use></svg></i>Idea</span>
         </div>
-        <div class="journey-legend" aria-label="Journey legend">
-          <span>
-            <i class="journey-legend__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></i>
-            Build
-          </span>
-          <span>
-            <i class="journey-legend__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/></svg></i>
-            Idea
-          </span>
-          <span>
-            <i class="journey-legend__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m8 9-4 3 4 3M16 9l4 3-4 3M13.5 5.5l-3 13M6 20h12"/></svg></i>
-            Tool
-          </span>
+        <nav class="journey-chapter-nav" aria-label="Journey chapters">
+          <a href="#chapter-useful">01 <span>Useful things</span></a>
+          <a href="#chapter-workflow">02 <span>Trading workflow</span></a>
+          <a href="#chapter-edge">03 <span>Trading edge</span></a>
+          <a href="#chapter-scale">04 <span>Founder scale</span></a>
+          <a href="#chapter-market">05 <span>Code in market</span></a>
+          <a href="#chapter-saas">06 <span>SaaS products</span></a>
+          <a href="#chapter-ai">07 <span>AI research</span></a>
+        </nav>
+      </div>
+
+      <div class="journey-essay" aria-label="Chronological product journey">
+        <section class="journey-chapter" id="chapter-useful" data-journey-chapter data-side="left" aria-labelledby="chapter-useful-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C15 20 85 34 50 52 C15 70 85 84 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C15 20 85 34 50 52 C15 70 85 84 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C15 20 85 34 50 52 C15 70 85 84 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 01 <span><time datetime="1996">1996</time>-<time datetime="2001">2001</time></span></p>
+            <h2 id="chapter-useful-title">Useful things become products</h2>
+            <p>I started with small, practical things I wanted to fix. Before long, that curiosity had grown into hardware, publishing, digital services and my first attempts at building companies.</p>
+            <p class="journey-chapter__bridge">A self-taught Visual Basic tool led me towards a technical degree, connected products and, eventually, professional financial software.</p>
+          </header>
+
+          <article
+            class="journey-anchor"
+            id="entry-mp3-home-player"
+            data-entry-id="builds/mp3-home-player"
+            data-entry-type="build"
+            data-themes="workflow product-making"
+            data-prominence="anchor"
+          >
+            <span class="journey-anchor__marker journey-anchor__marker--build" aria-hidden="true"><svg><use href="#journey-icon-build"></use></svg></span>
+            <div class="journey-entry-meta"><span>Build</span><time datetime="2001">2001</time></div>
+            <h3><a href="../builds/mp3-home-player/">MP3 Home Player</a></h3>
+                <p>This was the first time I brought hardware, server software and a desktop application together as one product: a standalone home audio unit with its own networked music library.</p>
+            <figure class="journey-anchor__media">
+              <img src="../assets/img/builds/mp3-home-player-photo.jpg" alt="The original MP3 Home Player hardware and development setup" width="1024" height="738" loading="lazy" decoding="async">
+            </figure>
+            <a class="journey-anchor__link" href="../builds/mp3-home-player/">Explore the build <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter one">
+            <li id="entry-car-motorcycle-manager" data-entry-id="builds/car-motorcycle-manager" data-entry-type="build" data-themes="workflow personal-data" data-prominence="supporting">
+                <a href="../builds/car-motorcycle-manager/"><span class="journey-entry-meta"><span>Build</span><time datetime="1996">1996</time></span><strong>Car &amp; Motorcycle Manager</strong><small>I built a simple way to keep on top of servicing, repairs and running costs.</small></a>
+            </li>
+            <li id="entry-mpfrequency-build" data-entry-id="builds/mpfrequency-com" data-entry-type="build" data-themes="discovery product-making" data-prominence="supporting">
+                <a href="../builds/mpfrequency-com/"><span class="journey-entry-meta"><span>Build</span><time datetime="2000">2000</time></span><strong>MPFrequency.com</strong><small>New MP3 players were hard to compare, so I built a place for independent reviews.</small></a>
+            </li>
+            <li id="entry-mpfrequency-startup" data-entry-id="startups/mpfrequency-com" data-entry-type="startup" data-themes="discovery product-making" data-prominence="supporting">
+                <a href="../startups/mpfrequency-com/"><span class="journey-entry-meta"><span>Startup</span><time datetime="2000">2000</time></span><strong>MPFrequency.com</strong><small>The review site became my first attempt to turn useful content into a business.</small></a>
+            </li>
+            <li id="entry-cool-oak" data-entry-id="startups/cool-oak-technologies" data-entry-type="startup" data-themes="workflow product-making" data-prominence="supporting">
+                <a href="../startups/cool-oak-technologies/"><span class="journey-entry-meta"><span>Startup</span><time datetime="2000">2000</time></span><strong>Cool Oak Technologies</strong><small>A small company built around practical web, server and bespoke software work.</small></a>
+            </li>
+            <li id="entry-liquipak" data-entry-id="ideas/liquipak" data-entry-type="idea" data-themes="workflow" data-prominence="supporting">
+                <a href="../ideas/liquipak/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2001">2001</time></span><strong>LiquiPak</strong><small>A different kind of problem: what if the service came to the crowd instead of everyone queuing?</small></a>
+            </li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="explicit" aria-label="Explicit relationship">
+            <span>Explicit connection</span>
+              <p>MPFrequency was both a product and my first experience of building a company around one. The MP3 Home Player took that a step further, just before my work moved into professional financial technology.</p>
+          </aside>
+          <details class="journey-chapter__notes">
+            <summary>Why these projects belong together</summary>
+              <p>Looking back, I was already doing the thing I still enjoy most: noticing an everyday frustration and wondering whether a thoughtfully designed system could make it easier.</p>
+          </details>
+            <p class="journey-chapter__transition">Then the setting changed completely: from personal and consumer products to the dense operational world of hedge-fund trading.</p>
+        </section>
+
+        <section class="journey-chapter" id="chapter-workflow" data-journey-chapter data-side="right" aria-labelledby="chapter-workflow-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C85 18 15 36 50 52 C85 69 15 84 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C85 18 15 36 50 52 C85 69 15 84 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C85 18 15 36 50 52 C85 69 15 84 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 02 <span><time datetime="2001">2001</time>-<time datetime="2004">2004</time></span></p>
+            <h2 id="chapter-workflow-title">Learning the trading workflow</h2>
+            <p>I entered financial technology through the practical end of the problem: first capture a trade, then bring many trades together, then understand the whole lifecycle around them.</p>
+            <p class="journey-chapter__bridge">At Beauchamp Financial Technology, browser interfaces, Oracle data and C++ systems turned my product curiosity into real financial-market craft.</p>
+          </header>
+
+          <article class="journey-anchor" id="entry-trademanager" data-entry-id="builds/trademanager" data-entry-type="build" data-themes="workflow markets automation" data-prominence="anchor">
+            <span class="journey-anchor__marker journey-anchor__marker--build" aria-hidden="true"><svg><use href="#journey-icon-build"></use></svg></span>
+            <div class="journey-entry-meta"><span>Build</span><time datetime="2004">2004</time></div>
+            <h3><a href="../builds/trademanager/">TradeManager</a></h3>
+                <p>TradeManager brought everything I had been learning into one enterprise product, from rapid trade capture and electronic execution to the workflow surrounding both.</p>
+            <figure class="journey-anchor__media"><img src="../assets/img/journey/trademanager.webp" alt="Monochrome illustration of the TradeManager workflow" width="800" height="450" loading="lazy" decoding="async"></figure>
+            <a class="journey-anchor__link" href="../builds/trademanager/">Explore the build <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter two">
+              <li id="entry-web-trade-capture" data-entry-id="builds/web-based-trade-capture-for-hedge-funds" data-entry-type="build" data-themes="workflow markets" data-prominence="supporting"><a href="../builds/web-based-trade-capture-for-hedge-funds/"><span class="journey-entry-meta"><span>Build</span><time datetime="2001">2001</time></span><strong>Web-Based Trade Capture for Hedge Funds</strong><small>My first step into trading software replaced fragmented processes with a clearer browser workflow.</small></a></li>
+              <li id="entry-betsweeper" data-entry-id="builds/betsweeper" data-entry-type="build" data-themes="markets automation" data-prominence="supporting"><a href="../builds/betsweeper/"><span class="journey-entry-meta"><span>Build</span><time datetime="2002">2002</time></span><strong>BetSweeper</strong><small>A side experiment in making sense of fragmented exchange data and acting on what it revealed.</small></a></li>
+              <li id="entry-pos-betting" data-entry-id="ideas/point-of-sale-betting-terminals" data-entry-type="idea" data-themes="markets workflow" data-prominence="supporting"><a href="../ideas/point-of-sale-betting-terminals/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2003">2003</time></span><strong>Point-of-Sale Betting Terminals</strong><small>I explored a venue-based route into exchange-style markets, then decided not to pursue it.</small></a></li>
+              <li id="entry-web-trade-blotter" data-entry-id="builds/web-based-trade-blotter-for-hedge-funds" data-entry-type="build" data-themes="workflow markets" data-prominence="supporting"><a href="../builds/web-based-trade-blotter-for-hedge-funds/"><span class="journey-entry-meta"><span>Build</span><time datetime="2003">2003</time></span><strong>Web-Based Trade Blotter for Hedge Funds</strong><small>The capture screen grew into ordering, execution, allocation and the rules around them.</small></a></li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="editorial" aria-label="Editorial connection">
+            <span>Editorial connection</span>
+              <p><a href="#entry-betsweeper">BetSweeper</a> and the <a href="#entry-pos-betting">terminal idea</a> both asked how people could reach a market more easily. I see the family resemblance now, although one was not documented as the cause of the other.</p>
+          </aside>
+            <details class="journey-chapter__notes"><summary>Why these projects belong together</summary><p>With each build I understood a little more of the job around the screen. What began as recording a trade became a consolidated view, then a product responsible for the wider workflow. I would return to that pattern years later.</p></details>
+            <p class="journey-chapter__transition">Once I could see the workflow as a whole, the next question felt natural: could software also improve the decisions moving through it?</p>
+        </section>
+
+        <section class="journey-chapter" id="chapter-edge" data-journey-chapter data-side="left" aria-labelledby="chapter-edge-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C12 17 88 35 50 52 C12 71 88 84 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C12 17 88 35 50 52 C12 71 88 84 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C12 17 88 35 50 52 C12 71 88 84 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 03 <span><time datetime="2005">2005</time>-<time datetime="2007">2007</time></span></p>
+            <h2 id="chapter-edge-title">Information becomes trading edge</h2>
+            <p>Inside a hedge fund, I saw how much better the work became when research, communication, market data, portfolios and analytics stopped living in separate tools.</p>
+            <p class="journey-chapter__bridge">The software was no longer simply supporting the front office. Built closely with the people using it, it became part of the fund&rsquo;s recognised advantage.</p>
+          </header>
+
+          <article class="journey-anchor" id="entry-equity-research" data-entry-id="builds/equity-research-platform-for-hedge-funds" data-entry-type="build" data-themes="research workflow markets" data-prominence="anchor">
+            <span class="journey-anchor__marker journey-anchor__marker--build" aria-hidden="true"><svg><use href="#journey-icon-build"></use></svg></span>
+            <div class="journey-entry-meta"><span>Build</span><time datetime="2005">2005</time></div>
+            <h3><a href="../builds/equity-research-platform-for-hedge-funds/">Equity Research Platform for Hedge Fund</a></h3>
+                <p>This platform connected the full decision: the research behind an idea, the people responsible for it, its place in the portfolio and risk, and the trading that followed.</p>
+            <figure class="journey-anchor__media"><img src="../assets/img/journey/equity-research.webp" alt="Monochrome illustration of an integrated equity research platform" width="800" height="450" loading="lazy" decoding="async"></figure>
+            <a class="journey-anchor__link" href="../builds/equity-research-platform-for-hedge-funds/">Explore the build <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter three">
+              <li id="entry-icq-trade-chat" data-entry-id="builds/icq-trade-chat" data-entry-type="build" data-themes="communication research markets" data-prominence="supporting"><a href="../builds/icq-trade-chat/"><span class="journey-entry-meta"><span>Build</span><time datetime="2006">2006</time></span><strong>ICQ Trade Chat</strong><small>I used ticker rooms and keyword broadcasts to get relevant research to the right people sooner.</small></a></li>
+              <li id="entry-ticker-notification" data-entry-id="builds/ticker-notification" data-entry-type="build" data-themes="communication workflow markets" data-prominence="supporting"><a href="../builds/ticker-notification/"><span class="journey-entry-meta"><span>Build</span><time datetime="2006">2006</time></span><strong>Ticker Notification</strong><small>Recommendations, alerts and confirmations reached people through channels they could shape themselves.</small></a></li>
+              <li id="entry-option-chain" data-entry-id="builds/option-price-chain-lookup-tool" data-entry-type="build" data-themes="markets research" data-prominence="supporting"><a href="../builds/option-price-chain-lookup-tool/"><span class="journey-entry-meta"><span>Build</span><time datetime="2007">2007</time></span><strong>Option Price Chain Lookup Tool</strong><small>A dense Reuters data set became a view that people could actually use to think.</small></a></li>
+              <li id="entry-portfolio-rebalancing" data-entry-id="builds/portfolio-rebalancing-tool" data-entry-type="build" data-themes="workflow markets automation" data-prominence="supporting"><a href="../builds/portfolio-rebalancing-tool/"><span class="journey-entry-meta"><span>Build</span><time datetime="2007">2007</time></span><strong>Portfolio Rebalancing Tool</strong><small>I turned the knock-on work from subscriptions and redemptions into clear, structured rebalance orders.</small></a></li>
+              <li id="entry-traderanalytics" data-entry-id="builds/traderanalytics-com" data-entry-type="build" data-themes="research markets product-making" data-prominence="supporting"><a href="../builds/traderanalytics-com/"><span class="journey-entry-meta"><span>Build</span><time datetime="2007">2007</time></span><strong>TraderAnalytics.com</strong><small>Trading behaviour and profitability became useful feedback for coaching, not just another report.</small></a></li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="editorial" aria-label="Editorial connections">
+            <span>Patterns that return later</span>
+              <p>Looking back, I can see <a href="#entry-icq-trade-chat">ICQ Trade Chat</a> in <a href="#entry-order-chat">Order Chat</a>, and <a href="#entry-ticker-notification">Ticker Notification</a> in <a href="#entry-fintiq">FinTiq</a>. They were not direct sequels, but the instinct behind them clearly stayed with me.</p>
+          </aside>
+            <details class="journey-chapter__notes"><summary>Why these projects belong together</summary><p>They all try to shorten the distance between knowing something and doing something useful with it. Research reaches the right person, data becomes understandable, portfolio changes become orders and performance becomes a chance to learn.</p></details>
+            <p class="journey-chapter__transition">By then, the tools were starting to feel like products in their own right. I wanted to see whether a company could grow around that specialist knowledge.</p>
+        </section>
+
+        <section class="journey-chapter" id="chapter-scale" data-journey-chapter data-side="right" aria-labelledby="chapter-scale-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C88 20 12 36 50 53 C88 70 12 85 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C88 20 12 36 50 53 C88 70 12 85 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C88 20 12 36 50 53 C88 70 12 85 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 04 <span><time datetime="2007">2007</time>-<time datetime="2010">2010</time></span></p>
+            <h2 id="chapter-scale-title">Founder tools and operational scale</h2>
+            <p>This chapter taught me two different kinds of scale: how to turn specialist software into a company, and how to make complex financial operations dependable across countries and teams.</p>
+            <p class="journey-chapter__bridge">Capital Coders opened the founder path. BTG Pactual widened my responsibility from individual applications to international development capability.</p>
+          </header>
+
+          <article class="journey-anchor" id="entry-capital-coders" data-entry-id="startups/capital-coders" data-entry-type="startup" data-themes="markets product-making workflow" data-prominence="anchor">
+            <span class="journey-anchor__marker journey-anchor__marker--startup" aria-hidden="true"><svg><use href="#journey-icon-startup"></use></svg></span>
+            <div class="journey-entry-meta"><span>Startup</span><span><time datetime="2007">2007</time>-<time datetime="2009">2009</time></span></div>
+            <h3><a href="../startups/capital-coders/">Capital Coders Limited</a></h3>
+                <p>TraderAnalytics grew into a London hedge-fund software consultancy. Suddenly I was balancing product ideas, client delivery, financial-domain engineering and the day-to-day reality of running a company.</p>
+            <figure class="journey-anchor__media"><img src="../assets/img/journey/capital-coders.webp" alt="Monochrome illustration of trading analytics workflows" width="800" height="450" loading="lazy" decoding="async"></figure>
+            <a class="journey-anchor__link" href="../startups/capital-coders/">Explore the startup <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter four">
+              <li id="entry-fund-risk" data-entry-id="builds/fund-risk-management-and-hedging-calculator" data-entry-type="build" data-themes="markets automation" data-prominence="supporting"><a href="../builds/fund-risk-management-and-hedging-calculator/"><span class="journey-entry-meta"><span>Build</span><time datetime="2008">2008</time></span><strong>Fund Risk Management and Hedging Calculator</strong><small>A practical way to turn portfolio exposure into the trades needed to offset it.</small></a></li>
+              <li id="entry-click-now-pay-later" data-entry-id="ideas/clicknowpaylater-com" data-entry-type="idea" data-themes="workflow product-making" data-prominence="supporting"><a href="../ideas/clicknowpaylater-com/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2008">2008</time></span><strong>ClickNowPayLater.com</strong><small>I wondered whether people could spread a cost without being pulled out of the purchase.</small></a></li>
+              <li id="entry-postbox" data-entry-id="ideas/postbox" data-entry-type="idea" data-themes="communication discovery" data-prominence="supporting"><a href="../ideas/postbox/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2008">2008</time></span><strong>Postbox</strong><small>A deliberately calm idea: turn chosen digital updates into a small physical morning briefing.</small></a></li>
+              <li id="entry-db2email" data-entry-id="builds/db2email" data-entry-type="build" data-themes="communication automation workflow" data-prominence="supporting"><a href="../builds/db2email/"><span class="journey-entry-meta"><span>Build</span><time datetime="2009">2009</time></span><strong>DB2Email</strong><small>More than 50 reports stopped being a manual chore and arrived automatically.</small></a></li>
+              <li id="entry-trade-reconciliation" data-entry-id="builds/trade-reconciliation" data-entry-type="build" data-themes="workflow markets" data-prominence="supporting"><a href="../builds/trade-reconciliation/"><span class="journey-entry-meta"><span>Build</span><time datetime="2009">2009</time></span><strong>Trade Reconciliation</strong><small>Broker and internal records were brought together so breaks and missing trades could not hide.</small></a></li>
+              <li id="entry-code-art" data-entry-id="ideas/code-art" data-entry-type="idea" data-themes="product-making" data-prominence="supporting"><a href="../ideas/code-art/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2009">2009</time></span><strong>&ldquo;Code Art&rdquo;</strong><small>A playful thought: source code can be a visual object as well as something functional.</small></a></li>
+              <li id="entry-hft-monitor" data-entry-id="builds/high-frequency-trading-monitor-toolkit" data-entry-type="build" data-themes="markets automation workflow" data-prominence="supporting"><a href="../builds/high-frequency-trading-monitor-toolkit/"><span class="journey-entry-meta"><span>Build</span><time datetime="2010">2010</time></span><strong>High-Frequency Trading Monitor Toolkit</strong><small>When software moves at market speed, people need clear oversight, health controls and a reliable off switch.</small></a></li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="explicit" aria-label="Explicit relationship">
+            <span>Explicit connection</span>
+              <p>Capital Coders began with <a href="#entry-traderanalytics">TraderAnalytics</a>, then grew around the needs I kept seeing in risk, options and bespoke hedge-fund software.</p>
+          </aside>
+            <details class="journey-chapter__notes"><summary>Why these projects belong together</summary><p>Running a company and supporting global operations taught me the same lesson from different directions: important work cannot depend on one person remembering everything. These tools made specialist knowledge repeatable and visible.</p></details>
+            <p class="journey-chapter__transition">Automation was no longer just helping people trade. Soon, the software and the trading strategy would become the same system.</p>
+        </section>
+
+        <section class="journey-chapter" id="chapter-market" data-journey-chapter data-side="left" aria-labelledby="chapter-market-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C14 19 86 35 50 52 C14 69 86 85 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C14 19 86 35 50 52 C14 69 86 85 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C14 19 86 35 50 52 C14 69 86 85 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 05 <span><time datetime="2011">2011</time>-<time datetime="2015">2015</time></span></p>
+            <h2 id="chapter-market-title">Code enters the market</h2>
+            <p>This was a turning point. The code was no longer beside the investment process; it was making portfolio decisions. At the same time, my ideas began reaching beyond markets into personal data, trust, place and organisational life.</p>
+            <p class="journey-chapter__bridge">My role moved from builder to systematic trader, then into international delivery and global technology leadership.</p>
+          </header>
+
+          <article class="journey-anchor" id="entry-systematic-strategy" data-entry-id="builds/systematic-trading-strategy" data-entry-type="build" data-themes="markets automation research" data-prominence="anchor">
+            <span class="journey-anchor__marker journey-anchor__marker--build" aria-hidden="true"><svg><use href="#journey-icon-build"></use></svg></span>
+            <div class="journey-entry-meta"><span>Build</span><time datetime="2011">2011</time></div>
+            <h3><a href="../builds/systematic-trading-strategy/">Systematic Trading Strategy</a></h3>
+                <p>I co-designed and back-tested a multi-portfolio, multi-asset model, then automated the journey from signal to execution. It returned 10% before being discontinued in 2012.</p>
+            <figure class="journey-anchor__media"><img src="../assets/img/journey/systematic-strategy.webp" alt="Monochrome illustration of an automated systematic trading strategy" width="800" height="450" loading="lazy" decoding="async"></figure>
+            <a class="journey-anchor__link" href="../builds/systematic-trading-strategy/">Explore the build <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter five">
+              <li id="entry-syscretionary" data-entry-id="ideas/syscretionary-com" data-entry-type="idea" data-themes="markets automation" data-prominence="supporting"><a href="../ideas/syscretionary-com/"><span class="journey-entry-meta"><span>Idea</span><span>Date not recorded</span></span><strong>Syscretionary.com</strong><small>A question I kept returning to: where should human judgement end and rules begin?</small></a></li>
+              <li id="entry-api-of-you" data-entry-id="ideas/api-of-you" data-entry-type="idea" data-themes="personal-data trust" data-prominence="supporting"><a href="../ideas/api-of-you/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2012">2012</time></span><strong>API of You</strong><small>What would it look like if people truly controlled their identity, content, consent and value?</small></a></li>
+              <li id="entry-skiverts" data-entry-id="ideas/skiverts-com" data-entry-type="idea" data-themes="product-making" data-prominence="supporting"><a href="../ideas/skiverts-com/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2012">2012</time></span><strong>Skiverts.com</strong><small>A playful attempt to see an overlooked physical surface as a new resort media channel.</small></a></li>
+              <li id="entry-estatebox" data-entry-id="ideas/estatebox-com" data-entry-type="idea" data-themes="personal-data trust workflow" data-prominence="supporting"><a href="../ideas/estatebox-com/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2013">2013</time></span><strong>EstateBox.com</strong><small>A trusted home for the records, wishes and instructions that families should not have to hunt for.</small></a></li>
+              <li id="entry-orbitthis" data-entry-id="ideas/orbitthis-com" data-entry-type="idea" data-themes="personal-data discovery" data-prominence="supporting"><a href="../ideas/orbitthis-com/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2014">2014</time></span><strong>OrbitThis.com</strong><small>An idea for leaving personal memories and local knowledge in the places where they mean something.</small></a></li>
+              <li id="entry-capability-matrix" data-entry-id="builds/capability-matrix" data-entry-type="build" data-themes="workflow automation" data-prominence="supporting"><a href="../builds/capability-matrix/"><span class="journey-entry-meta"><span>Build</span><time datetime="2015">2015</time></span><strong>Capability Matrix</strong><small>I needed a clearer way to see, compare and govern a complicated delivery programme.</small></a></li>
+              <li id="entry-technology-manager" data-entry-id="ideas/technologymanager-com" data-entry-type="idea" data-themes="workflow automation" data-prominence="supporting"><a href="../ideas/technologymanager-com/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2015">2015</time></span><strong>TechnologyManager.com</strong><small>The same instinct applied to an IT estate: make ownership, suppliers, assets and spend easier to see.</small></a></li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="editorial" aria-label="Editorial connections">
+            <span>Editorial connections</span>
+              <p><a href="#entry-syscretionary">Syscretionary</a> returned to the tension I had felt between judgement and rules. <a href="#entry-capability-matrix">Capability Matrix</a> and <a href="#entry-technology-manager">TechnologyManager</a> came from a different world, but shared the urge to make complexity easier to see.</p>
+          </aside>
+            <details class="journey-chapter__notes"><summary>Why these projects belong together</summary><p>This is where my field of view widened. I was still building systems, but the questions now included who owns personal data, how context survives and how people make sense of complicated organisations.</p></details>
+            <p class="journey-chapter__transition">By then, architecture, markets and product thinking no longer felt like separate parts of my experience. They were ready to come together in a modern SaaS company.</p>
+        </section>
+
+        <section class="journey-chapter" id="chapter-saas" data-journey-chapter data-side="right" aria-labelledby="chapter-saas-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C86 19 14 36 50 52 C86 69 14 84 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C86 19 14 36 50 52 C86 69 14 84 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C86 19 14 36 50 52 C86 69 14 84 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 06 <span><time datetime="2016">2016</time>-<time datetime="2020">2020</time></span></p>
+            <h2 id="chapter-saas-title">Trading systems become SaaS products</h2>
+            <p>Years of building one-off institutional systems came together as a connected product family: order management, communication, notifications and knowledge sharing designed side by side.</p>
+            <p class="journey-chapter__bridge">With HEDGD, I was writing code while also carrying responsibility for the company, the product and the architecture behind a multi-asset workflow platform.</p>
+          </header>
+
+          <article class="journey-anchor" id="entry-hedgd" data-entry-id="startups/hedgd-limited" data-entry-type="startup" data-themes="workflow markets communication product-making" data-prominence="anchor">
+            <span class="journey-anchor__marker journey-anchor__marker--startup" aria-hidden="true"><svg><use href="#journey-icon-startup"></use></svg></span>
+            <div class="journey-entry-meta"><span>Startup</span><span><time datetime="2016">2016</time>-<time datetime="2023">2023</time></span></div>
+            <h3><a href="../startups/hedgd-limited/">HEDGD Limited</a></h3>
+                <p>HEDGD was my attempt to bring the parts together as a company: multi-asset order management, structured execution, useful notifications and better ways to share knowledge inside a firm.</p>
+            <figure class="journey-anchor__media"><img src="../assets/img/journey/hedgd.webp" alt="Monochrome illustration of the HEDGD order-management platform" width="800" height="450" loading="lazy" decoding="async"></figure>
+            <a class="journey-anchor__link" href="../startups/hedgd-limited/">Explore the startup <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter six">
+              <li id="entry-web-oms" data-entry-id="builds/web-based-order-management-system" data-entry-type="build" data-themes="workflow markets automation" data-prominence="supporting"><a href="../builds/web-based-order-management-system/"><span class="journey-entry-meta"><span>Build</span><time datetime="2016">2016</time></span><strong>Web-Based Order Management System</strong><small>A modern multi-asset SaaS platform built around the real detail of allocation, charges and execution.</small></a></li>
+              <li id="entry-knowledge-matching" data-entry-id="ideas/knowledge-matching-app" data-entry-type="idea" data-themes="trust discovery communication" data-prominence="supporting"><a href="../ideas/knowledge-matching-app/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2016">2016</time></span><strong>Knowledge Matching App</strong><small>I wondered how much useful knowledge was already sitting quietly inside trusted contact networks.</small></a></li>
+              <li id="entry-order-chat" data-entry-id="builds/order-chat" data-entry-type="build" data-themes="workflow communication markets" data-prominence="supporting"><a href="../builds/order-chat/"><span class="journey-entry-meta"><span>Build</span><time datetime="2019">2019</time></span><strong>Order Chat</strong><small>Trading instructions could begin as a conversation without disappearing inside one.</small></a></li>
+              <li id="entry-fintiq" data-entry-id="builds/fintiq" data-entry-type="build" data-themes="communication workflow" data-prominence="supporting"><a href="../builds/fintiq/"><span class="journey-entry-meta"><span>Build</span><time datetime="2019">2019</time></span><strong>FinTiq</strong><small>A calmer way to search, pause and organise updates that otherwise move too quickly.</small></a></li>
+              <li id="entry-microreports" data-entry-id="builds/microreports" data-entry-type="build" data-themes="research communication discovery" data-prominence="supporting"><a href="../builds/microreports/"><span class="journey-entry-meta"><span>Build</span><time datetime="2020">2020</time></span><strong>MicroReports</strong><small>Short, focused reports made useful knowledge easier to publish, follow and discover.</small></a></li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="explicit" aria-label="Explicit relationships">
+            <span>Explicit relationships</span>
+              <p>Inside HEDGD, the <a href="#entry-web-oms">OMS</a>, <a href="#entry-order-chat">Order Chat</a>, <a href="#entry-fintiq">FinTiq</a> and <a href="#entry-microreports">MicroReports</a> each tackled a different part of the same working day. MicroReports became the clearest bridge towards Harkster and a more research-led future.</p>
+          </aside>
+            <details class="journey-chapter__notes"><summary>Why these projects belong together</summary><p>I kept running into the same human problem: important things arrive mixed in with everything else. These products gave instructions a workflow, updates a controllable channel and short reports a place where others could find them.</p></details>
+            <p class="journey-chapter__transition">The next step was to apply everything I had learned about workflow and research to the sheer volume of institutional information itself.</p>
+        </section>
+
+        <section class="journey-chapter journey-chapter--current" id="chapter-ai" data-journey-chapter data-side="left" aria-labelledby="chapter-ai-title">
+          <svg class="journey-chapter__route" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path class="journey-route__rail" d="M50 0 C10 18 90 35 50 52 C10 70 90 85 50 100" pathLength="1" />
+            <path class="journey-route__line" d="M50 0 C10 18 90 35 50 52 C10 70 90 85 50 100" pathLength="1" />
+            <path class="journey-route__progress" d="M50 0 C10 18 90 35 50 52 C10 70 90 85 50 100" pathLength="1" />
+          </svg>
+          <header class="journey-chapter__header">
+            <p class="journey-chapter__number">Chapter 07 <span><time datetime="2022">2022</time>-present</span></p>
+            <h2 id="chapter-ai-title">Research becomes AI-assisted</h2>
+            <p>By now, several old questions had met in one place. How do you keep useful information? How do you discover what matters? And how do you give busy people enough context to act with confidence?</p>
+            <p class="journey-chapter__bridge">My current work brings financial research, architecture, product judgement and hands-on engineering together. It does not replace the earlier chapters; it depends on them.</p>
+          </header>
+
+          <article class="journey-anchor" id="entry-harkster-build" data-entry-id="builds/harkster" data-entry-type="build" data-themes="research discovery markets automation" data-prominence="anchor">
+            <span class="journey-anchor__marker journey-anchor__marker--build" aria-hidden="true"><svg><use href="#journey-icon-build"></use></svg></span>
+            <div class="journey-entry-meta"><span>Build</span><time datetime="2023">2023</time></div>
+            <h3><a href="../builds/harkster/">Harkster</a></h3>
+                <p>Harkster uses AI to help institutional researchers get more from the information they already receive: finding consensus, overlooked trade ideas and market-moving events through tailored assistants and integrations.</p>
+            <figure class="journey-anchor__media"><img src="../assets/img/journey/harkster.webp" alt="Monochrome illustration of AI-assisted institutional research" width="800" height="450" loading="lazy" decoding="async"></figure>
+            <a class="journey-anchor__link" href="../builds/harkster/">Explore the build <span aria-hidden="true">&nearr;</span></a>
+          </article>
+
+          <ol class="journey-trail" aria-label="Supporting entries in chapter seven">
+              <li id="entry-linkbox" data-entry-id="ideas/linkbox" data-entry-type="idea" data-themes="discovery trust personal-data" data-prominence="supporting"><a href="../ideas/linkbox/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2022">2022</time></span><strong>LinkBox</strong><small>I was tired of useful links disappearing into conversations, so I imagined a private, searchable home for them.</small></a></li>
+              <li id="entry-harkster-startup" data-entry-id="startups/harkster-limited" data-entry-type="startup" data-themes="research discovery markets product-making" data-prominence="supporting"><a href="../startups/harkster-limited/"><span class="journey-entry-meta"><span>Startup</span><span><time datetime="2023">2023</time>-present</span></span><strong>Harkster Limited</strong><small>The company brings my institutional research and market-intelligence products under one roof.</small></a></li>
+              <li id="entry-tweet-deck" data-entry-id="builds/tweet-deck-for-macro-research" data-entry-type="build" data-themes="research communication discovery" data-prominence="supporting"><a href="../builds/tweet-deck-for-macro-research/"><span class="journey-entry-meta"><span>Build</span><time datetime="2023">2023</time></span><strong>&lsquo;Tweet Deck&rsquo; for Macro Research</strong><small>Scattered publications, podcasts and news became one research workspace that people could shape for themselves.</small></a></li>
+              <li id="entry-jotjar" data-entry-id="builds/jotjar" data-entry-type="build" data-themes="workflow communication" data-prominence="supporting"><a href="../builds/jotjar/"><span class="journey-entry-meta"><span>Build</span><time datetime="2023">2023</time></span><strong>JotJar</strong><small>A nearby branch of the journey: collect feedback simply, then make sure someone responds.</small></a></li>
+              <li id="entry-non-slip-buns" data-entry-id="ideas/non-slip-burger-buns" data-entry-type="idea" data-themes="workflow product-making" data-prominence="supporting"><a href="../ideas/non-slip-burger-buns/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2023">2023</time></span><strong>Non-Slip Burger Buns</strong><small>Not everything has to become software. Sometimes a small physical redesign is enough.</small></a></li>
+              <li id="entry-discoverthis" data-entry-id="ideas/discoverthis-com" data-entry-type="idea" data-themes="discovery trust" data-prominence="supporting"><a href="../ideas/discoverthis-com/"><span class="journey-entry-meta"><span>Idea</span><time datetime="2024">2024</time></span><strong>DiscoverThis.com</strong><small>A simple belief that still matters to me: recommendations feel better when they come from people we trust.</small></a></li>
+          </ol>
+
+          <aside class="journey-connection" data-evidence="explicit" aria-label="Explicit relationships">
+            <span>Explicit relationships</span>
+              <p><a href="#entry-harkster-startup">Harkster Limited</a> is the company behind <a href="#entry-harkster-build">Harkster</a> and the <a href="#entry-tweet-deck">macro research workspace</a>. I see LinkBox and DiscoverThis as related questions about discovery, although neither is presented as the cause of those products.</p>
+          </aside>
+            <details class="journey-chapter__notes"><summary>Why these projects belong together</summary><p>The technology is new, but the frustration is familiar. Valuable information still arrives fragmented, quickly and without enough context. AI now helps, but it sits inside a workflow shaped by years of building research and market systems.</p></details>
+            <p class="journey-chapter__transition">The path reaches the present here. The questions underneath it have been travelling with me for much longer.</p>
+        </section>
+      </div>
+
+      <section class="journey-threads" id="recurring-threads" aria-labelledby="journey-threads-title">
+        <header class="journey-threads__header">
+          <p class="journey-essay-kicker">What kept returning</p>
+        <h2 id="journey-threads-title">Six threads I kept following</h2>
+        <p>I did not name these themes at the time. They are simply the patterns I can see now when I step back and look at the work as a whole.</p>
+        </header>
+        <div class="journey-threads__list">
+          <article id="thread-workflow"><span>01</span><h3>Workflow</h3><p>I keep wanting to understand the work around the screen, then remove the friction that gets in people&rsquo;s way.</p></article>
+          <article id="thread-research"><span>02</span><h3>Research &amp; discovery</h3><p>From independent reviews to AI-assisted market intelligence, I have always been drawn to helping people find what matters.</p></article>
+          <article id="thread-communication"><span>03</span><h3>Communication &amp; attention</h3><p>The right information only helps when it reaches the right person, in time, without adding more noise.</p></article>
+          <article id="thread-markets"><span>04</span><h3>Markets, risk &amp; automation</h3><p>Markets taught me to respect speed, uncertainty and the importance of keeping people in control of complex systems.</p></article>
+          <article id="thread-trust"><span>05</span><h3>Trusted personal information</h3><p>Many of the ideas ask the same human question: who should own our information, memories, context and recommendations?</p></article>
+          <article id="thread-companies"><span>06</span><h3>Turning tools into companies</h3><p>MPFrequency, Capital Coders, HEDGD and Harkster each began with the hope that a useful specialist tool could become something durable.</p></article>
         </div>
       </section>
 
-      <section class="journey-map" aria-label="Chronological professional journey">
-        <svg class="journey-map__path journey-map__path--mobile" viewBox="0 0 346 2600" aria-hidden="true" preserveAspectRatio="none">
-          <path d="M28 40 C12 145 48 230 28 336 C10 452 48 540 28 650 C10 760 48 860 28 970 C10 1088 48 1188 28 1306 C10 1420 48 1528 28 1644 C10 1760 48 1872 28 1988 C10 2100 48 2214 28 2330 C14 2440 42 2510 28 2560"/>
-          <path d="M28 40 C12 145 48 230 28 336 C10 452 48 540 28 650 C10 760 48 860 28 970 C10 1088 48 1188 28 1306 C10 1420 48 1528 28 1644 C10 1760 48 1872 28 1988 C10 2100 48 2214 28 2330 C14 2440 42 2510 28 2560"/>
-          <path d="M28 40 C12 145 48 230 28 336 C10 452 48 540 28 650 C10 760 48 860 28 970 C10 1088 48 1188 28 1306 C10 1420 48 1528 28 1644 C10 1760 48 1872 28 1988 C10 2100 48 2214 28 2330 C14 2440 42 2510 28 2560"/>
-        </svg>
-        <svg class="journey-map__path journey-map__path--desktop" viewBox="0 0 1160 2200" aria-hidden="true" preserveAspectRatio="none">
-          <path d="M580 90 C500 150 660 210 580 270 C500 330 660 390 580 450 C500 510 660 570 580 630 C500 690 660 750 580 810 C500 870 660 930 580 990 C500 1050 660 1110 580 1170 C500 1230 660 1290 580 1350 C500 1410 660 1470 580 1530 C500 1590 660 1650 580 1710 C500 1770 660 1830 580 1890 C510 1950 650 2010 580 2070"/>
-          <path d="M580 90 C500 150 660 210 580 270 C500 330 660 390 580 450 C500 510 660 570 580 630 C500 690 660 750 580 810 C500 870 660 930 580 990 C500 1050 660 1110 580 1170 C500 1230 660 1290 580 1350 C500 1410 660 1470 580 1530 C500 1590 660 1650 580 1710 C500 1770 660 1830 580 1890 C510 1950 650 2010 580 2070"/>
-          <path d="M580 90 C500 150 660 210 580 270 C500 330 660 390 580 450 C500 510 660 570 580 630 C500 690 660 750 580 810 C500 870 660 930 580 990 C500 1050 660 1110 580 1170 C500 1230 660 1290 580 1350 C500 1410 660 1470 580 1530 C500 1590 660 1650 580 1710 C500 1770 660 1830 580 1890 C510 1950 650 2010 580 2070"/>
-        </svg>
-
-        <ol class="journey-map__list">
-          <li class="journey-stop journey-stop--idea" style="--x: 84px; --y: 0px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">1996</time>
-              <h2>First useful software</h2>
-              <p class="journey-stop__role">Self-taught Visual Basic developer</p>
-              <p>Before the financial systems and leadership roles, there was a practical little application for managing cars, motorcycles, service history, receipts and maintenance planning. It was the first proof that software could turn a real-life annoyance into something useful.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Tool</span><span>Idea</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--tool" style="--x: 700px; --y: 154px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m8 9-4 3 4 3M16 9l4 3-4 3M13.5 5.5l-3 13M6 20h12"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">1998-2001</time>
-              <h2>Computer networks foundation</h2>
-              <p class="journey-stop__role">University of Westminster, School of Computer Science</p>
-              <p>A 1st Class Honours degree in Computer Communications and Networks gave the curiosity a serious technical base: systems, networks, communication protocols and the discipline to understand how software behaves beyond one machine.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Education</span><span>Tool</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--build journey-stop--feature" style="--x: 96px; --y: 318px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2001</time>
-              <h2>From curiosity to front office</h2>
-              <p class="journey-stop__role">Beauchamp Financial Technology - Software Developer, Core Services</p>
-              <p>After building the MP3 Home Player, Matt joined Beauchamp Financial Technology, a financial software company serving hedge funds. The work moved quickly from personal invention into professional trade capture, core products and the front-office realities of investment technology.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Build</span><span>Work</span><span>Tool</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--build" style="--x: 690px; --y: 486px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2002-2004</time>
-              <h2>Web, data and trading workflows</h2>
-              <p class="journey-stop__role">Beauchamp Financial Technology - Senior Software Developer, Front Office</p>
-              <p>The toolkit expanded through Oracle, PL/SQL, HTML, JavaScript, source control, C++, SQLite and design patterns. The responsibility expanded with it: web trade capture, consolidated blotters and TradeManager, an enterprise front-office platform for rapid trade capture, FIX and workflow management.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Tool</span><span>Build</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--build journey-stop--feature" style="--x: 74px; --y: 650px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2005-2007</time>
-              <h2>Software becomes trading edge</h2>
-              <p class="journey-stop__role">Marble Bar Asset Management - Senior Software Developer</p>
-              <p>At Marble Bar Asset Management, a London long/short equity hedge fund, Matt helped build RAID: an integrated research, portfolio, risk and black-box trading platform. It became part of the firm's decision-making process and contributed to AUM growth from $800m to $3b.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Work</span><span>Build</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--idea" style="--x: 720px; --y: 828px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2007-2008</time>
-              <h2>Founder mode begins</h2>
-              <p class="journey-stop__role">Capital Coders Limited - Founder</p>
-              <p>Capital Coders began as a technology start-up and became a UK financial software provider for hedge funds. The work ranged from TraderAnalytics and portfolio risk tooling to Reuters-backed option chain applications, VBA add-ins and bespoke systems for firms including Tisbury Capital and Linedata Services.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Work</span><span>Idea</span><span>Build</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--build" style="--x: 92px; --y: 996px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2009-2010</time>
-              <h2>Building the global platform</h2>
-              <p class="journey-stop__role">BTG Pactual - Senior Software Developer to Head of Development</p>
-              <p>BTG Pactual, an investment bank, asset manager and wealth manager, hired Matt early into its London build-out. The role started hands-on, getting the asset-management business moving, then grew into building international development capability and systems such as trade reconciliation, DB2Email and HFT monitoring.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Work</span><span>Build</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--build journey-stop--feature" style="--x: 680px; --y: 1156px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2011-2012</time>
-              <h2>From builder to systematic trader</h2>
-              <p class="journey-stop__role">BTG Pactual - Systematic Trader</p>
-              <p>This chapter pulled software directly into trading. Matt co-designed and back-tested a multi-portfolio, multi-asset model, then built the infrastructure to run it end to end. The strategy returned 10% during a period of extreme market uncertainty.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Work</span><span>Build</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--idea" style="--x: 116px; --y: 1328px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2012-2014</time>
-              <h2>Leadership and product thinking</h2>
-              <p class="journey-stop__role">BTG Pactual - Head of IT Development/Delivery, New York, London, Brazil and Hong Kong</p>
-              <p>The role widened into international delivery across asset management, broker dealer, re-insurance, investment banking and wealth management. Alongside the day job came a sharper product imagination: API of You, EstateBox and OrbitThis, plus Harvard Business School leadership training.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Work</span><span>Idea</span><span>Education</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--tool journey-stop--feature" style="--x: 690px; --y: 1492px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m8 9-4 3 4 3M16 9l4 3-4 3M13.5 5.5l-3 13M6 20h12"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2015-2016</time>
-              <h2>Architecture at scale</h2>
-              <p class="journey-stop__role">BTG Pactual - Global Head of Commodities IT; HEDGD Limited - Head of Technology</p>
-              <p>At BTG Pactual, Matt oversaw global commodities technology across 31 offices in 18 countries, with a team of 70 and a $25m+ annual IT spend. The next move was HEDGD Limited, leading a multi-asset SaaS OMS built with C#, ASP.NET, SQL Server, FIX, CQRS, event sourcing and native iOS workflows.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Tool</span><span>Build</span><span>Work</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--build" style="--x: 96px; --y: 1662px">
-            <span class="journey-stop__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z"/></svg></span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2019-2020</time>
-              <h2>Workflow products sharpen</h2>
-              <p class="journey-stop__role">HEDGD Limited to Harkster Limited - Product and technology lead</p>
-              <p>The product focus tightened around communication and decision flow. Order Chat gave portfolio managers and execution traders a cleaner workflow, FinTiq refined channel-based notifications, and MicroReports became the bridge into Harkster's research-led future.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Build</span><span>Work</span></div>
-            </article>
-          </li>
-          <li class="journey-stop journey-stop--now" style="--x: 670px; --y: 1810px">
-            <span class="journey-stop__icon journey-stop__icon--now" aria-hidden="true">NOW</span>
-            <article class="journey-stop__card">
-              <time class="journey-stop__year">2023-NOW</time>
-              <h2>AI-native research systems</h2>
-              <p class="journey-stop__role">Harkster Limited - Head of Technology</p>
-              <p>Harkster brings the whole path together: financial research, product judgement, architecture, trading context and hands-on engineering. Matt architected and developed a multi-tenant RAG research email client with chunking, summarization, semantic search, trade idea generation and AI assistants for institutional research workflows.</p>
-              <div class="journey-stop__tags" aria-label="Categories"><span>Build</span><span>Tool</span><span>Now</span></div>
-            </article>
-          </li>
-        </ol>
+      <section class="journey-conclusion" aria-labelledby="journey-conclusion-title">
+        <p class="journey-essay-kicker">Where it led me</p>
+        <h2 id="journey-conclusion-title">The tools changed. The thread did not.</h2>
+        <p>Harkster uses current technology, but the reason I am building it feels familiar. It is still about bringing scattered information together, preserving the context around it and helping someone make a better decision at the moment it matters.</p>
+        <div class="journey-conclusion__links">
+          <a class="button" href="../builds/harkster/">Explore Harkster <span aria-hidden="true">&nearr;</span></a>
+          <a class="button button--secondary" href="../#builds">Browse all builds</a>
+          <a class="button button--secondary" href="../#contact">Contact Matt</a>
+        </div>
       </section>
     </main>
 
