@@ -45,7 +45,7 @@ for (const file of pages) {
   const ids = [...html.matchAll(/\sid="([^"]+)"/g)].map((match) => match[1]);
   const duplicateIds = ids.filter((id, index) => ids.indexOf(id) !== index);
   const canonical = html.match(/<link\s+rel="canonical"\s+href="([^"]+)"/);
-  const expectedCanonical = `https://mttcnnng.github.io${pageUrl(file)}`;
+  const expectedCanonical = `https://mttcnnng.com${pageUrl(file)}`;
 
   const requiredPatterns = [
     [/<html\s+lang="en">/, "an English document language"],
