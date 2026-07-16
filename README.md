@@ -2,6 +2,8 @@
 
 Static GitHub Pages portfolio for `mttcnnng`.
 
+Live site: <https://mttcnnng.com>
+
 The site is implemented with semantic HTML, vanilla CSS, and small progressive
 enhancement scripts for the footer year and Journey route state. It has no
 framework, no backend, and no build step.
@@ -32,6 +34,7 @@ framework, no backend, and no build step.
   with original PNGs and optimized WebP page assets.
 - `assets/img/journey/` contains optimized chapter-anchor images for Journey.
 - `assets/favicon.svg` is the monochrome site favicon.
+- `CNAME` configures `mttcnnng.com` as the GitHub Pages custom domain.
 - `tools/validate-journey.mjs` compares Journey's primary entries with the
   homepage portfolio index and verifies their local detail-page links.
 - `tools/validate-site.mjs` checks metadata, headings, images, local references,
@@ -75,9 +78,10 @@ python tools/optimize_detail_images.py
 
 ## Deployment
 
-This site is intended for branch-based GitHub Pages publishing from the
-repository root. All stylesheets, scripts, page links, and assets use relative
-paths so the site can also work from a repository subpath.
+This site is published from the repository root using branch-based GitHub Pages
+and the custom domain `mttcnnng.com`. Keep the root `CNAME` file in place when
+deploying. All stylesheets, scripts, page links, and assets use relative paths so
+the site can also work from a repository subpath.
 
 No npm install, build command, generated CSS, framework, backend, or GitHub
 Actions workflow is required.

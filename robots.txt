@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mttcnnng.github.io/sitemap.xml
+Sitemap: https://mttcnnng.com/sitemap.xml
