@@ -1,0 +1,40 @@
+{
+  "id": "builds/fund-risk-management-and-hedging-calculator",
+  "path": "/builds/fund-risk-management-and-hedging-calculator/",
+  "output": "builds/fund-risk-management-and-hedging-calculator/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Fund Risk Management and Hedging Calculator",
+  "listing": {
+    "title": "Fund Risk Management and Hedging Calculator",
+    "summary": "Excel hedging calculator for fund-level risk.",
+    "dateLabel": "2008"
+  },
+  "head": {
+    "description": "Fund Risk Management and Hedging Calculator build: Excel-based fund risk and hedging tool for portfolio exposure analysis.",
+    "canonical": "https://mttcnnng.com/builds/fund-risk-management-and-hedging-calculator/",
+    "ogTitle": "Fund Risk Management and Hedging Calculator | Matt",
+    "ogDescription": "Fund Risk Management and Hedging Calculator build: Excel-based fund risk and hedging tool for portfolio exposure analysis.",
+    "ogUrl": "https://mttcnnng.com/builds/fund-risk-management-and-hedging-calculator/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/fund-risk-management-and-hedging-calculator-playful.png",
+    "ogImageAlt": "Fund Risk Management and Hedging Calculator preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Fund Risk Management and Hedging Calculator | Matt",
+    "twitterDescription": "Fund Risk Management and Hedging Calculator build: Excel-based fund risk and hedging tool for portfolio exposure analysis.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/fund-risk-management-and-hedging-calculator-playful.png",
+    "title": "Fund Risk Management and Hedging Calculator | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2008",
+    "sortYear": 2008
+  }
+}

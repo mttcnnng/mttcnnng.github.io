@@ -1,0 +1,40 @@
+{
+  "id": "builds/order-chat",
+  "path": "/builds/order-chat/",
+  "output": "builds/order-chat/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Order Chat",
+  "listing": {
+    "title": "Order Chat",
+    "summary": "Chat-driven order workflow for PMs and execution traders.",
+    "dateLabel": "2019"
+  },
+  "head": {
+    "description": "Order Chat build: chat-driven order workflow connecting portfolio managers and execution traders with structured real-time trading instructions.",
+    "canonical": "https://mttcnnng.com/builds/order-chat/",
+    "ogTitle": "Order Chat | Matt",
+    "ogDescription": "Order Chat build: chat-driven order workflow connecting portfolio managers and execution traders with structured real-time trading instructions.",
+    "ogUrl": "https://mttcnnng.com/builds/order-chat/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/order-chat-playful.png",
+    "ogImageAlt": "Order Chat preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Order Chat | Matt",
+    "twitterDescription": "Order Chat build: chat-driven order workflow connecting portfolio managers and execution traders with structured real-time trading instructions.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/order-chat-playful.png",
+    "title": "Order Chat | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2019",
+    "sortYear": 2019
+  }
+}

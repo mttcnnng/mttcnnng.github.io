@@ -1,0 +1,2986 @@
+{
+  "version": 1,
+  "pages": {
+    "builds/betsweeper/index.html": {
+      "sha256": "58b6a9b405f998eed3314797a8664fb01c275cd6749a1a14bb9430d6136a06dc",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "BetSweeper"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/betsweeper-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/capability-matrix/index.html": {
+      "sha256": "86c2dc576a50032bfb9bf352c289659c45ecdfe7b7a4eff2699851427f159045",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Capability Matrix"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/capability-matrix-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/car-motorcycle-manager/index.html": {
+      "sha256": "7d23b9d70e6bb25fdaf8de994e9ef655bcf12eae37d301ebb578727dc70d87e8",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Car & Motorcycle Manager"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/car-motorcycle-manager-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/db2email/index.html": {
+      "sha256": "205ceabe8c26a914b9485d5de4617dc9398381fd56fc6d89a2ac21c25c5ee71f",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "DB2Email"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/db2email-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/equity-research-platform-for-hedge-funds/index.html": {
+      "sha256": "2727ecc8f80c944563d64009b35f07526161d980b093cdcc99b62411298feaab",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equity Research Platform for Hedge Fund"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/equity-research-platform-for-hedge-funds-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/fintiq/index.html": {
+      "sha256": "b319d56f4903093d0cbdbc417ff5488ce6b6340637bde59b68d623c8ad642179",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "FinTiq"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/fintiq-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/fund-risk-management-and-hedging-calculator/index.html": {
+      "sha256": "801fd87ea0cd452bdce78df29db19f59390810e76b3f4620809bf7815237afa5",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Fund Risk Management and Hedging Calculator"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/fund-risk-management-and-hedging-calculator-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/harkster/index.html": {
+      "sha256": "39093a9648654ea5c6f498645588b441bc7e89d6829d4fa6171b44730b02307b",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Harkster"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/harkster-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://harkster.com",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/high-frequency-trading-monitor-toolkit/index.html": {
+      "sha256": "982c1d3bb91ad84b3b11b49aa39ca5e77ed5161f022efb885ad13faa08e36584",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "High-Frequency Trading Monitor Toolkit"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/high-frequency-trading-monitor-toolkit-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/icq-trade-chat/index.html": {
+      "sha256": "617c13774495474d287752dcb27fe7fc40aee26cd94ed25a133ebfc2ba06023f",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "ICQ Trade Chat"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/icq-trade-chat-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/jotjar/index.html": {
+      "sha256": "0a80bf41d6618eac84574fd9c1905deecf21b2dd5df0b9c3f55f04426a44a75e",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "JotJar"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/jotjar-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://github.com/mttcnnng/jotjar",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/microreports/index.html": {
+      "sha256": "017e131aa1a5e8bfe6dddeb7be9e34968b2329cef81af2bd00ac076388bd272c",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "MicroReports"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/microreports-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/mp3-home-player/index.html": {
+      "sha256": "d0467a17057f7b3744ad604b182da4f983cb60fe0cce05ed35c07a13be996ba1",
+      "ids": [
+        "main-content",
+        "page-title",
+        "mp3-home-player-photo-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "MP3 Home Player"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        },
+        {
+          "level": 2,
+          "text": "Project photo"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/mp3-home-player-playful.webp",
+        "../../assets/img/builds/mp3-home-player-photo.jpg"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/mpfrequency-com/index.html": {
+      "sha256": "1972a649e4ed2c86a7d79d037771c8f0175238bc5dcccb03564634ac93658129",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "MPFrequency .com"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/mpfrequency-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://web.archive.org/web/20010606143107/http://www.mpfrequency.com/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/option-price-chain-lookup-tool/index.html": {
+      "sha256": "a990c89549284240fae06ea9663e91bd5601d9d6a6f8f4c1df534f6e188f9fd8",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Option Price Chain Lookup Tool"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/option-price-chain-lookup-tool-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/order-chat/index.html": {
+      "sha256": "fe3a7a46275cf2d0e3e840d0271cef029ac273bae27857507de6f4d274e89dc1",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Order Chat"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/order-chat-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/portfolio-rebalancing-tool/index.html": {
+      "sha256": "f59eeb0e14c458364c24f95fd3aea01adba5627202cb7d7f5b6aa92444914d7f",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Portfolio Rebalancing Tool"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/portfolio-rebalancing-tool-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/systematic-trading-strategy/index.html": {
+      "sha256": "8cd03409566af60a52e220b778a66ee0f5f1a20b1a53a28f24cb32423f30cafd",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Systematic Trading Strategy"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/systematic-trading-strategy-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/ticker-notification/index.html": {
+      "sha256": "1df84be972002908c4fbdafc665830f64f009f8e25a00a56fa64fab39e8a2b2c",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Ticker Notification"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/ticker-notification-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/trade-reconciliation/index.html": {
+      "sha256": "e506847522a9e746b9f70d355114b5f8cd56cfc1adad464ffa13fecde15a08fd",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Trade Reconciliation"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/trade-reconciliation-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/trademanager/index.html": {
+      "sha256": "bd086e624392e86893d5b5015cd1e480ab6b222c10425317b976239fb7a0fb30",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "TradeManager"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/trademanager-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/traderanalytics-com/index.html": {
+      "sha256": "b426593e420ad2e1cf8cc15fe9c437892837f8b350ad0190845bf5d56bc9ce59",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "TraderAnalytics .com"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/traderanalytics-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/tweet-deck-for-macro-research/index.html": {
+      "sha256": "67e1817ca2455138a2dfc8b6bc2c59eb1552e8668fc437c58757c306a2d235fc",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "‘Tweet Deck’ for Macro Research"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/tweet-deck-for-macro-research-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/web-based-order-management-system/index.html": {
+      "sha256": "2f09e5b9d61fa24037b86148124a5843f71d4e65e7d6a1737c21e021a2cd2a41",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Web-Based Order Management System"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/web-based-order-management-system-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/web-based-trade-blotter-for-hedge-funds/index.html": {
+      "sha256": "ad6cb9a48a3e732d24318071074ee887d3d27b9a6946927bfcc9275ec688004c",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Web-Based Trade Blotter for Hedge Funds"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/web-based-trade-blotter-for-hedge-funds-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "builds/web-based-trade-capture-for-hedge-funds/index.html": {
+      "sha256": "0b8d3aa641274c8f25ae9f0b1f963aff2099361b3a7ba5e0fba67e074bf20c54",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Web-Based Trade Capture for Hedge Funds"
+        },
+        {
+          "level": 2,
+          "text": "What I built"
+        },
+        {
+          "level": 2,
+          "text": "How I built it"
+        },
+        {
+          "level": 2,
+          "text": "Architecture"
+        },
+        {
+          "level": 2,
+          "text": "Deliverables"
+        },
+        {
+          "level": 2,
+          "text": "Deployment"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        },
+        {
+          "level": 2,
+          "text": "Technologies"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/web-based-trade-capture-for-hedge-funds-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#builds",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "domains-for-sale/index.html": {
+      "sha256": "de762a03e80631fc5ee3645c251af1153c426d7f9c4a44f5b7d72e6d9e737b0b",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Domains For Sale"
+        }
+      ],
+      "images": [],
+      "links": [
+        "#main-content",
+        "../",
+        "../",
+        "../journey/",
+        "../#contact",
+        "https://clicknowpaylater.com",
+        "https://fintiq.com",
+        "https://microreports.com",
+        "https://orbitthis.com",
+        "https://organisedtrader.com",
+        "https://organizedtrader.com",
+        "https://technologymanager.com",
+        "https://traderanalytics.com",
+        "https://traderstatistics.com",
+        "https://treeofrock.com",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "./"
+      ]
+    },
+    "ideas/api-of-you/index.html": {
+      "sha256": "530f70b8d02fa6293a92c527702ff770d20cd0a1c4a5f0e68355b59662f88b2e",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "API of You"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/api-of-you-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/clicknowpaylater-com/index.html": {
+      "sha256": "6db4c7f5d3b53d033b58b225287c8314b70d01748ac4e9f4b599672e9dc0ee68",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "ClickNow PayLater .com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/clicknowpaylater-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/code-art/index.html": {
+      "sha256": "e23aba0572652023a75506ac55e1705956c9d233080611d0c25c93e9ad7b6af7",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "“Code Art”"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/code-art-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/discoverthis-com/index.html": {
+      "sha256": "af447710993ab2b640dbc331b9d95ac09bc79ddf30e9ad369879cba09b338989",
+      "ids": [
+        "main-content",
+        "page-title",
+        "discoverthis-com-poster-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "DiscoverThis.com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        },
+        {
+          "level": 2,
+          "text": "App poster"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/discoverthis-com-playful.webp",
+        "../../assets/img/ideas/discoverthis-com-poster.jpg"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng/status/2052647746125840428?s=20",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/estatebox-com/index.html": {
+      "sha256": "7cd56eb9199a64c7c8fbf2e3aeead3be3e1723994941da842a900316388b671f",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "EstateBox.com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/estatebox-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/knowledge-matching-app/index.html": {
+      "sha256": "b9479ad8dec0bd402cd88619c2686e94254519a519431d2759f01be947b58f42",
+      "ids": [
+        "main-content",
+        "page-title",
+        "knowledge-matching-app-poster-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Knowledge Matching App"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        },
+        {
+          "level": 2,
+          "text": "App poster"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/knowledge-matching-app-playful.webp",
+        "../../assets/img/ideas/knowledge-matching-app-poster.jpg"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng/status/2049757972985684152?s=20",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/linkbox/index.html": {
+      "sha256": "be5d10cc201be6f561d293a55c950bec1c1ac6e0e5cd2615a20ed8eacdc8f03b",
+      "ids": [
+        "main-content",
+        "page-title",
+        "linkbox-poster-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "LinkBox"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        },
+        {
+          "level": 2,
+          "text": "App poster"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/linkbox-playful.webp",
+        "../../assets/img/ideas/linkbox-poster.jpg"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng/status/2047608848693731361?s=20",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/liquipak/index.html": {
+      "sha256": "fb8d421bb70c5c458cb0bcbfa489edc95175ae40067142741a115051251dcd51",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "LiquiPak"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/liquipak-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/non-slip-burger-buns/index.html": {
+      "sha256": "88103b3719411eae3c60f94feb7bd98062144b3fb8181fb4fedf30a91689a8c9",
+      "ids": [
+        "main-content",
+        "page-title",
+        "non-slip-burger-poster-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Non-Slip Burger Buns"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        },
+        {
+          "level": 2,
+          "text": "App poster"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/non-slip-burger-buns-playful.webp",
+        "../../assets/img/ideas/non-slip-burger-buns-poster.jpg"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng/status/2048009004731777377?s=20",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/orbitthis-com/index.html": {
+      "sha256": "9c4e236507e7f7d5e3156a5e8a3b69b1143ef6d360d29adccc4bf949636f0118",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "OrbitThis.com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/orbitthis-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/point-of-sale-betting-terminals/index.html": {
+      "sha256": "d5e568173955e5bcad3a3d39c4c4eda6e13cc2c5275ba9d96993ba8224d0e262",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Point-of-Sale Betting Terminals"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/point-of-sale-betting-terminals-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/postbox/index.html": {
+      "sha256": "b36d5cace5a0a799ab232015cbf3d9e57aa1cc22412c74fa965266f7569f5c67",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Postbox"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/postbox-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/skiverts-com/index.html": {
+      "sha256": "9484ab1c5c00039f2fc08fc7919fa80a0f361a13661507ce76340bc5d68554a9",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Skiverts.com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/skiverts-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/syscretionary-com/index.html": {
+      "sha256": "c764213441e170cc5b124ac2b6fe2471efe9c98ade6d3aed54d4dd3f107aecaa",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Syscretionary .com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/syscretionary-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "ideas/technologymanager-com/index.html": {
+      "sha256": "819274185bd25e2bd794aab6d128fba837d90892a5e205093950c0f5e540c0e3",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Technology Manager .com"
+        },
+        {
+          "level": 2,
+          "text": "Concept"
+        },
+        {
+          "level": 2,
+          "text": "Why it matters"
+        },
+        {
+          "level": 2,
+          "text": "How it could work"
+        },
+        {
+          "level": 2,
+          "text": "Status"
+        }
+      ],
+      "images": [
+        "../../assets/img/ideas/technologymanager-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#ideas",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "index.html": {
+      "sha256": "bfb59e8dc6eb20cdaa23ea03d0cdc532285d78b9bbc8d8c15466c2a3457a5ea9",
+      "ids": [
+        "main-content",
+        "page-title",
+        "professional-highlights-title",
+        "global-footprint-title",
+        "global-map-title",
+        "global-map-desc",
+        "builds",
+        "builds-title",
+        "startups",
+        "startups-title",
+        "ideas",
+        "ideas-title",
+        "contact"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "I build software in LDN"
+        },
+        {
+          "level": 2,
+          "text": "Professional highlights"
+        },
+        {
+          "level": 2,
+          "text": "Built across markets and time zones."
+        },
+        {
+          "level": 2,
+          "text": "Builds"
+        },
+        {
+          "level": 2,
+          "text": "Startups"
+        },
+        {
+          "level": 2,
+          "text": "Ideas"
+        }
+      ],
+      "images": [
+        "assets/img/profile-matt.png"
+      ],
+      "links": [
+        "#main-content",
+        "./",
+        "./",
+        "journey/",
+        "#contact",
+        "#contact",
+        "builds/harkster/",
+        "builds/tweet-deck-for-macro-research/",
+        "builds/jotjar/",
+        "builds/microreports/",
+        "builds/fintiq/",
+        "builds/order-chat/",
+        "builds/web-based-order-management-system/",
+        "builds/capability-matrix/",
+        "builds/systematic-trading-strategy/",
+        "builds/high-frequency-trading-monitor-toolkit/",
+        "builds/db2email/",
+        "builds/trade-reconciliation/",
+        "builds/fund-risk-management-and-hedging-calculator/",
+        "builds/option-price-chain-lookup-tool/",
+        "builds/portfolio-rebalancing-tool/",
+        "builds/traderanalytics-com/",
+        "builds/ticker-notification/",
+        "builds/icq-trade-chat/",
+        "builds/equity-research-platform-for-hedge-funds/",
+        "builds/trademanager/",
+        "builds/web-based-trade-blotter-for-hedge-funds/",
+        "builds/betsweeper/",
+        "builds/web-based-trade-capture-for-hedge-funds/",
+        "builds/mp3-home-player/",
+        "builds/mpfrequency-com/",
+        "builds/car-motorcycle-manager/",
+        "startups/harkster-limited/",
+        "startups/hedgd-limited/",
+        "startups/capital-coders/",
+        "startups/cool-oak-technologies/",
+        "startups/mpfrequency-com/",
+        "ideas/discoverthis-com/",
+        "ideas/non-slip-burger-buns/",
+        "ideas/linkbox/",
+        "ideas/knowledge-matching-app/",
+        "ideas/technologymanager-com/",
+        "ideas/orbitthis-com/",
+        "ideas/estatebox-com/",
+        "ideas/api-of-you/",
+        "ideas/skiverts-com/",
+        "ideas/syscretionary-com/",
+        "ideas/code-art/",
+        "ideas/clicknowpaylater-com/",
+        "ideas/postbox/",
+        "ideas/point-of-sale-betting-terminals/",
+        "ideas/liquipak/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "domains-for-sale/"
+      ]
+    },
+    "journey/index.html": {
+      "sha256": "06b5b5d16de2b6d04358662cac2801adb59fabab51bf6edd372e8c928fbbe6c6",
+      "ids": [
+        "journey-icon-build",
+        "journey-icon-startup",
+        "journey-icon-idea",
+        "main-content",
+        "chapter-useful",
+        "chapter-useful-title",
+        "entry-mp3-home-player",
+        "entry-car-motorcycle-manager",
+        "entry-mpfrequency-build",
+        "entry-mpfrequency-startup",
+        "entry-cool-oak",
+        "entry-liquipak",
+        "chapter-workflow",
+        "chapter-workflow-title",
+        "entry-trademanager",
+        "entry-web-trade-capture",
+        "entry-betsweeper",
+        "entry-pos-betting",
+        "entry-web-trade-blotter",
+        "chapter-edge",
+        "chapter-edge-title",
+        "entry-equity-research",
+        "entry-icq-trade-chat",
+        "entry-ticker-notification",
+        "entry-option-chain",
+        "entry-portfolio-rebalancing",
+        "entry-traderanalytics",
+        "chapter-scale",
+        "chapter-scale-title",
+        "entry-capital-coders",
+        "entry-fund-risk",
+        "entry-click-now-pay-later",
+        "entry-postbox",
+        "entry-db2email",
+        "entry-trade-reconciliation",
+        "entry-code-art",
+        "entry-hft-monitor",
+        "chapter-market",
+        "chapter-market-title",
+        "entry-systematic-strategy",
+        "entry-syscretionary",
+        "entry-api-of-you",
+        "entry-skiverts",
+        "entry-estatebox",
+        "entry-orbitthis",
+        "entry-capability-matrix",
+        "entry-technology-manager",
+        "chapter-saas",
+        "chapter-saas-title",
+        "entry-hedgd",
+        "entry-web-oms",
+        "entry-knowledge-matching",
+        "entry-order-chat",
+        "entry-fintiq",
+        "entry-microreports",
+        "chapter-ai",
+        "chapter-ai-title",
+        "entry-harkster-build",
+        "entry-linkbox",
+        "entry-harkster-startup",
+        "entry-tweet-deck",
+        "entry-jotjar",
+        "entry-non-slip-buns",
+        "entry-discoverthis",
+        "recurring-threads",
+        "journey-threads-title",
+        "thread-workflow",
+        "thread-research",
+        "thread-communication",
+        "thread-markets",
+        "thread-trust",
+        "thread-companies",
+        "journey-conclusion-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "How the builds connect."
+        },
+        {
+          "level": 2,
+          "text": "Useful things become products"
+        },
+        {
+          "level": 3,
+          "text": "MP3 Home Player"
+        },
+        {
+          "level": 2,
+          "text": "Learning the trading workflow"
+        },
+        {
+          "level": 3,
+          "text": "TradeManager"
+        },
+        {
+          "level": 2,
+          "text": "Information becomes trading edge"
+        },
+        {
+          "level": 3,
+          "text": "Equity Research Platform for Hedge Fund"
+        },
+        {
+          "level": 2,
+          "text": "Founder tools and operational scale"
+        },
+        {
+          "level": 3,
+          "text": "Capital Coders Limited"
+        },
+        {
+          "level": 2,
+          "text": "Code enters the market"
+        },
+        {
+          "level": 3,
+          "text": "Systematic Trading Strategy"
+        },
+        {
+          "level": 2,
+          "text": "Trading systems become SaaS products"
+        },
+        {
+          "level": 3,
+          "text": "HEDGD Limited"
+        },
+        {
+          "level": 2,
+          "text": "Research becomes AI-assisted"
+        },
+        {
+          "level": 3,
+          "text": "Harkster"
+        },
+        {
+          "level": 2,
+          "text": "Six threads I kept following"
+        },
+        {
+          "level": 3,
+          "text": "Workflow"
+        },
+        {
+          "level": 3,
+          "text": "Research & discovery"
+        },
+        {
+          "level": 3,
+          "text": "Communication & attention"
+        },
+        {
+          "level": 3,
+          "text": "Markets, risk & automation"
+        },
+        {
+          "level": 3,
+          "text": "Trusted personal information"
+        },
+        {
+          "level": 3,
+          "text": "Turning tools into companies"
+        },
+        {
+          "level": 2,
+          "text": "The tools changed. The thread did not."
+        }
+      ],
+      "images": [
+        "../assets/img/builds/mp3-home-player-photo.jpg",
+        "../assets/img/journey/trademanager.webp",
+        "../assets/img/journey/equity-research.webp",
+        "../assets/img/journey/capital-coders.webp",
+        "../assets/img/journey/systematic-strategy.webp",
+        "../assets/img/journey/hedgd.webp",
+        "../assets/img/journey/harkster.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../",
+        "../",
+        "./",
+        "../#contact",
+        "#chapter-useful",
+        "#chapter-workflow",
+        "#chapter-edge",
+        "#chapter-scale",
+        "#chapter-market",
+        "#chapter-saas",
+        "#chapter-ai",
+        "../builds/mp3-home-player/",
+        "../builds/mp3-home-player/",
+        "../builds/car-motorcycle-manager/",
+        "../builds/mpfrequency-com/",
+        "../startups/mpfrequency-com/",
+        "../startups/cool-oak-technologies/",
+        "../ideas/liquipak/",
+        "../builds/trademanager/",
+        "../builds/trademanager/",
+        "../builds/web-based-trade-capture-for-hedge-funds/",
+        "../builds/betsweeper/",
+        "../ideas/point-of-sale-betting-terminals/",
+        "../builds/web-based-trade-blotter-for-hedge-funds/",
+        "#entry-betsweeper",
+        "#entry-pos-betting",
+        "../builds/equity-research-platform-for-hedge-funds/",
+        "../builds/equity-research-platform-for-hedge-funds/",
+        "../builds/icq-trade-chat/",
+        "../builds/ticker-notification/",
+        "../builds/option-price-chain-lookup-tool/",
+        "../builds/portfolio-rebalancing-tool/",
+        "../builds/traderanalytics-com/",
+        "#entry-icq-trade-chat",
+        "#entry-order-chat",
+        "#entry-ticker-notification",
+        "#entry-fintiq",
+        "../startups/capital-coders/",
+        "../startups/capital-coders/",
+        "../builds/fund-risk-management-and-hedging-calculator/",
+        "../ideas/clicknowpaylater-com/",
+        "../ideas/postbox/",
+        "../builds/db2email/",
+        "../builds/trade-reconciliation/",
+        "../ideas/code-art/",
+        "../builds/high-frequency-trading-monitor-toolkit/",
+        "#entry-traderanalytics",
+        "../builds/systematic-trading-strategy/",
+        "../builds/systematic-trading-strategy/",
+        "../ideas/syscretionary-com/",
+        "../ideas/api-of-you/",
+        "../ideas/skiverts-com/",
+        "../ideas/estatebox-com/",
+        "../ideas/orbitthis-com/",
+        "../builds/capability-matrix/",
+        "../ideas/technologymanager-com/",
+        "#entry-syscretionary",
+        "#entry-capability-matrix",
+        "#entry-technology-manager",
+        "../startups/hedgd-limited/",
+        "../startups/hedgd-limited/",
+        "../builds/web-based-order-management-system/",
+        "../ideas/knowledge-matching-app/",
+        "../builds/order-chat/",
+        "../builds/fintiq/",
+        "../builds/microreports/",
+        "#entry-web-oms",
+        "#entry-order-chat",
+        "#entry-fintiq",
+        "#entry-microreports",
+        "../builds/harkster/",
+        "../builds/harkster/",
+        "../ideas/linkbox/",
+        "../startups/harkster-limited/",
+        "../builds/tweet-deck-for-macro-research/",
+        "../builds/jotjar/",
+        "../ideas/non-slip-burger-buns/",
+        "../ideas/discoverthis-com/",
+        "#entry-harkster-startup",
+        "#entry-harkster-build",
+        "#entry-tweet-deck",
+        "../builds/harkster/",
+        "../#builds",
+        "../#contact",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../domains-for-sale/"
+      ]
+    },
+    "startups/capital-coders/index.html": {
+      "sha256": "ee6f33a16a747bd03b00efaba720c6a0d186a5294b4c1d5903e7d5b8e3ac7305",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Capital Coders Limited"
+        },
+        {
+          "level": 2,
+          "text": "Company"
+        },
+        {
+          "level": 2,
+          "text": "Why it existed"
+        },
+        {
+          "level": 2,
+          "text": "My role"
+        },
+        {
+          "level": 2,
+          "text": "What we built"
+        },
+        {
+          "level": 2,
+          "text": "How it was delivered"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/traderanalytics-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#startups",
+        "../../builds/traderanalytics-com/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "startups/cool-oak-technologies/index.html": {
+      "sha256": "3786653f5a29d338daff73b16f907c1f38ea985f658094c5d52123ae97e50d58",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Cool Oak Technologies"
+        },
+        {
+          "level": 2,
+          "text": "Company"
+        },
+        {
+          "level": 2,
+          "text": "Why it existed"
+        },
+        {
+          "level": 2,
+          "text": "My role"
+        },
+        {
+          "level": 2,
+          "text": "What we built"
+        },
+        {
+          "level": 2,
+          "text": "How it was delivered"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        }
+      ],
+      "images": [
+        "../../assets/img/startups/cool-oak-technologies-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#startups",
+        "https://web.archive.org/web/20001203163600/http://www.cooloak.com/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "startups/harkster-limited/index.html": {
+      "sha256": "59444ff98f4b04a7663a33b12d08ecc1f419b5e9bfd416c5192afd81129986de",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "Harkster Limited"
+        },
+        {
+          "level": 2,
+          "text": "Company"
+        },
+        {
+          "level": 2,
+          "text": "Why it existed"
+        },
+        {
+          "level": 2,
+          "text": "My role"
+        },
+        {
+          "level": 2,
+          "text": "What we built"
+        },
+        {
+          "level": 2,
+          "text": "How it was delivered"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/harkster-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#startups",
+        "../../builds/harkster/",
+        "../../builds/tweet-deck-for-macro-research/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "startups/hedgd-limited/index.html": {
+      "sha256": "792550fd61e4aeba35274a818c3a73d08fa0c64e7ca7945c903d0f97986cefea",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "HEDGD Limited"
+        },
+        {
+          "level": 2,
+          "text": "Company"
+        },
+        {
+          "level": 2,
+          "text": "Why it existed"
+        },
+        {
+          "level": 2,
+          "text": "My role"
+        },
+        {
+          "level": 2,
+          "text": "What we built"
+        },
+        {
+          "level": 2,
+          "text": "How it was delivered"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/web-based-order-management-system-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#startups",
+        "../../builds/web-based-order-management-system/",
+        "../../builds/order-chat/",
+        "../../builds/fintiq/",
+        "../../builds/microreports/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    },
+    "startups/mpfrequency-com/index.html": {
+      "sha256": "804ce7fa05e339ef696980dcd51b5647934f62241f033ea3d87f58bd025c83ff",
+      "ids": [
+        "main-content",
+        "page-title"
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "MPFrequency .com"
+        },
+        {
+          "level": 2,
+          "text": "Company"
+        },
+        {
+          "level": 2,
+          "text": "Why it existed"
+        },
+        {
+          "level": 2,
+          "text": "My role"
+        },
+        {
+          "level": 2,
+          "text": "What we built"
+        },
+        {
+          "level": 2,
+          "text": "How it was delivered"
+        },
+        {
+          "level": 2,
+          "text": "Outcome"
+        }
+      ],
+      "images": [
+        "../../assets/img/builds/mpfrequency-com-playful.webp"
+      ],
+      "links": [
+        "#main-content",
+        "../../",
+        "../../",
+        "../../journey/",
+        "../../#contact",
+        "../../#startups",
+        "../../builds/mpfrequency-com/",
+        "https://web.archive.org/web/20010606143107/http://www.mpfrequency.com/",
+        "https://x.com/mttcnnng",
+        "https://www.linkedin.com/in/mttcnnng",
+        "https://github.com/mttcnnng",
+        "../../domains-for-sale/"
+      ]
+    }
+  },
+  "assets": {
+    "assets/css/journey.css": "0b9ba0572013994ad85d76127c8d35ded2a34775a39e1abdf8c35788cba4442c",
+    "assets/css/styles.css": "9e75e1254a4b511b92988507f35d98ef3b2b10697794ec3fa97fe0aa5a7e4825",
+    "assets/favicon.svg": "e3e2b7d91c325b6fd8eac6e3f76fffaa4ba780c88c5fa769d22595c26f846398",
+    "assets/img/builds/betsweeper-playful.png": "b20054e4669e6830bbdb8d287c02afa30bc207a4266bc8ce567d957db9a12077",
+    "assets/img/builds/betsweeper-playful.webp": "33dd875a5d10a6edde5feaefc07d0e0be1a707baa532c7406629cc80fa01257a",
+    "assets/img/builds/betsweeper.png": "82f7388660edbb2d7da333988459d69bf9b86b67db42663c8a070e68791f16a1",
+    "assets/img/builds/capability-matrix-playful.png": "83e8a5cce5a6b6745cf235428c9593074e47b80d2783f89a32cadd88fafaca4f",
+    "assets/img/builds/capability-matrix-playful.webp": "13ec54df779c554b5ab3624d55630a2bd9d0156475b77939b5d9142417f5cb76",
+    "assets/img/builds/capability-matrix.png": "6b8ba347c3f126f693e609ecf0f76c6516fdf73137b348b64bedef7580567dbb",
+    "assets/img/builds/car-motorcycle-manager-playful.png": "11347d923332290a2a56662f207751a4d11ca9d271fcc1da174a85d01389e297",
+    "assets/img/builds/car-motorcycle-manager-playful.webp": "bcf347d45ad850984917950d1834c794263957968756ecb11e38deafddde4476",
+    "assets/img/builds/car-motorcycle-manager.png": "1c433b09338bbfee3fa0e8d8125bb0942d94bca95a2872621fba196cb227cab6",
+    "assets/img/builds/db2email-playful.png": "5c39b158468ac8da2542a439d4873b1162837ff956a256935572f704db0ab0a0",
+    "assets/img/builds/db2email-playful.webp": "011fddf8559a8f521982ef1e01a0c7d31f85690ffeb70eb40f8a0170a3186654",
+    "assets/img/builds/db2email.png": "7a26e01a35a620ea16cf254a74b536bd303c6bba2e9be7e1014dd6cee82501b0",
+    "assets/img/builds/equity-research-platform-for-hedge-funds-playful.png": "6bcca67bb796ce3dad423e9e51829fe3a7481f957c8def582cdc226dcbf1b2a8",
+    "assets/img/builds/equity-research-platform-for-hedge-funds-playful.webp": "41f3161824e6aca7cb41ea561261bee0245d8fc91c26c75dbd3fa03d13cb7a31",
+    "assets/img/builds/equity-research-platform-for-hedge-funds.png": "6ffc29e5ef85cc72fd0be13b158e32f2d47f51b7f23d64c279073ee29debcb19",
+    "assets/img/builds/fintiq-playful.png": "01186cb9228cbda30b394179125c26cd13d4f4fcfcdb6aaa16a3c6920232d6af",
+    "assets/img/builds/fintiq-playful.webp": "d8555c501f6b267f2c95379a1933f8cc3f1d83b1045e759157c89246d7927f71",
+    "assets/img/builds/fintiq.png": "b3fa98287ad2d70e7987f2bd22a99cbdaee2bffd066f0fc2cc7c221f0eaaac9a",
+    "assets/img/builds/fund-risk-management-and-hedging-calculator-playful.png": "74f5b1fca901e8eadb6a7480261da9e1fdccbb3961efd0e7dce683ba67e760bd",
+    "assets/img/builds/fund-risk-management-and-hedging-calculator-playful.webp": "c69f36e076f7807e61a326d98a0e19505aa342b622849924cbcb46f37b3ca20c",
+    "assets/img/builds/fund-risk-management-and-hedging-calculator.png": "709c9671b13fa18406082db70cb091aa3a7dfeddc61f1ae3d3d2ca1961fc00a2",
+    "assets/img/builds/harkster-playful.png": "b2385a59c36da9942cc69fb5648aab3066858d1cf0e7ec2cc750fa81fe2c7dff",
+    "assets/img/builds/harkster-playful.webp": "d6445c05103d538300c292bbf90edcc5c62c75cf4e0e7c5ece87d13dfa953427",
+    "assets/img/builds/harkster.png": "b6703d641b8abb4effe1405eb73c696caa86908b48fa21944daeaf27cc8ca5af",
+    "assets/img/builds/high-frequency-trading-monitor-toolkit-playful.png": "7bf2916ddae8eea09ab933f6083b0765bf7f7ead7223b96862c96b482fd9f472",
+    "assets/img/builds/high-frequency-trading-monitor-toolkit-playful.webp": "3c578f5703307e069dab25dfefed4cb0a597f044ea9f98145c7f9d2844100ab1",
+    "assets/img/builds/high-frequency-trading-monitor-toolkit.png": "91ea7a9a8c27b69ff2a22d87228bad7953793e07ab66a3cf820040a9538cd27f",
+    "assets/img/builds/icq-trade-chat-playful.png": "a0d0d8ed1f9ba8c1dd880594eb42f3c44e89cc692100354f59f6b4d6f18ece52",
+    "assets/img/builds/icq-trade-chat-playful.webp": "e10f3f843f9ba51e2135b3c1a7d50ea44dc6b83e104fda3ea1e4386acba9c397",
+    "assets/img/builds/icq-trade-chat.png": "0079a214cc20901560d7417e0f3c7df44b687a791ada5ddfc138fe739af61eed",
+    "assets/img/builds/jotjar-playful.png": "86f5b2d4766b33f2a2f19d67091a960c9279c66a92cb3ee4b288a1300bc3b2ed",
+    "assets/img/builds/jotjar-playful.webp": "689e6f3fb12b366a98709101d1a3a7731f76dd0ba3182479ab72e7c3d16b0cff",
+    "assets/img/builds/jotjar.png": "3c3c098e08c650a93dd569a982a31017e4d47861462acc1e42bac838134e3e15",
+    "assets/img/builds/microreports-playful.png": "4b185fad7a751cf5ec3ec7e288a36d8c3037c0a211870c70a1afbee5e2e24e36",
+    "assets/img/builds/microreports-playful.webp": "976213e9f72b257abe98971e612b090eba854af02634442afd22ac51200102f0",
+    "assets/img/builds/microreports.png": "90ce480af912874c4e4c5c62ca241cc909170f1bc07a38730dfc95d16f4ab18f",
+    "assets/img/builds/mp3-home-player-photo.jpg": "73277228d3840de3b8f9532979b064f0e927e77578cb96b3c0701ce8df64cb17",
+    "assets/img/builds/mp3-home-player-playful.png": "e477a722d6ae135627ce07b3536b4d6cac4b24f162b7ab18c0c45bd2d50db90f",
+    "assets/img/builds/mp3-home-player-playful.webp": "936a0c8dd34479a020836ebcf8f5f4e5201c992a23ce399bfc05296d975296bd",
+    "assets/img/builds/mp3-home-player.png": "f6808ee4d88d4f5fe7233f49864b7453509be448756f6c58b670deb9ca56c613",
+    "assets/img/builds/mpfrequency-com-playful.png": "aae53226ebc5c75060a27194b3d1f7361901c2e4ddbcd193d67f09f41b957a28",
+    "assets/img/builds/mpfrequency-com-playful.webp": "42a20e6d3dac6b84121392a18e0c89919a6d82d984adc5e8355b3199755102de",
+    "assets/img/builds/mpfrequency-com.png": "375ba4d3c2913969ef6dc18fa7cb3ee6241d521ce1b814544412350255505d66",
+    "assets/img/builds/option-price-chain-lookup-tool-playful.png": "ff31f37edd2b7d7db5c3c67db6e1c4c7e5b0ef1629784787dd767efa40d68602",
+    "assets/img/builds/option-price-chain-lookup-tool-playful.webp": "8b4172955fe36ea241ebe867649f4d49dfa199465648afb1c7b0a4fdfe3041a5",
+    "assets/img/builds/option-price-chain-lookup-tool.png": "896813072fa250b80c05c4c704a77f65dc975efd2c8c80d81264a3ef8c7517e3",
+    "assets/img/builds/order-chat-playful.png": "398cb94de5f2b7d2c0af2b2f24fd43cb345a71672b21549fa377310c3e21c357",
+    "assets/img/builds/order-chat-playful.webp": "fae26b4444904d4b37c06c37974eecf9b978f93142da4b4b8006958f313295f2",
+    "assets/img/builds/order-chat.png": "0cdbaf5cd7ccc240e304ddaad81e988cd97b286b168a6881bd8eda1804d78d95",
+    "assets/img/builds/portfolio-rebalancing-tool-playful.png": "51887213316a6319c7f548ad98c79081ac1fa0d8bbf8948dd808191cde7f2d3a",
+    "assets/img/builds/portfolio-rebalancing-tool-playful.webp": "eb64af44bec0884371ad4e8b49e2e090da1471ce2b52b0469bd53a7dc629751f",
+    "assets/img/builds/portfolio-rebalancing-tool.png": "3454c8d8f6d85a9443c6303cbc9d06719e09862ed1311c7defdaedb5fdba9010",
+    "assets/img/builds/systematic-trading-strategy-playful.png": "e18fe6fe6a590f3f647b74b506cb8fb93e662b0cb879de66b13945018152210e",
+    "assets/img/builds/systematic-trading-strategy-playful.webp": "38db29bd9bcc2df2060d049d17f46380fc2b935ba3bf2ba819306c782e421c4e",
+    "assets/img/builds/systematic-trading-strategy.png": "13afe00bfb94ca7ac392cb069ef44442fd6bc92482d9466ce267d28eba384a70",
+    "assets/img/builds/ticker-notification-playful.png": "25d1e67685366fc9c25d9f6c829544cfc78d5f8bd815c823c60287887063d6c3",
+    "assets/img/builds/ticker-notification-playful.webp": "1eafe32e788863819593c862076dac66e6b551c488103bd6f02f9f048bcb32c4",
+    "assets/img/builds/ticker-notification.png": "2665d8928a74e60beac0acfde4b0f9fc15be1bb90de230d36b31de8c910979ac",
+    "assets/img/builds/trade-reconciliation-playful.png": "083d7f5ddf7602c0cd9529e250bcf291285eeb9cadb0396756014016d1ec5686",
+    "assets/img/builds/trade-reconciliation-playful.webp": "bc1ae6b4ed72897dc74e885f220a8985f393bc5ac7e12b6f68d720aa55b4cdd4",
+    "assets/img/builds/trade-reconciliation.png": "4da5ddb64954a2446aea60b430d25bf7a81edb5449b04f49715d1a4895a89168",
+    "assets/img/builds/trademanager-playful.png": "52ce70cfcc82ef8320b8350a92d52f7ecf0f0dc8f5877f000a449935c8b2a264",
+    "assets/img/builds/trademanager-playful.webp": "8781deaf57458bb3eb05951303ae9052980512f10d63dd29305de580deebf5bc",
+    "assets/img/builds/trademanager.png": "12d03b08fd0a1b58cfa86497474b438978968d254e44533de684336a807f2da0",
+    "assets/img/builds/traderanalytics-com-playful.png": "f58e5f30724540af8441c3065cd7f71d8a0893c519f6af7b7d8b679d3056fd92",
+    "assets/img/builds/traderanalytics-com-playful.webp": "9fdd13a9dc717d3c8727253fe4aee75d2c8be64c40677086236d05dff441cb61",
+    "assets/img/builds/traderanalytics-com.png": "0547d8f2fad84e59e8f6b404578bcb83426f32fd89c5c2026051b4a0d387c3cd",
+    "assets/img/builds/tweet-deck-for-macro-research-playful.png": "51ee529232e3763d8804ba29d51ccea5512c0d23be4eff87c53e8f54a11ff4d3",
+    "assets/img/builds/tweet-deck-for-macro-research-playful.webp": "363559e285b3ff06793669f76971aad147602fcf7279568b9366489857e1f141",
+    "assets/img/builds/web-based-order-management-system-playful.png": "d6b243e10e32cab3e4318ed47d9bb673bc77f650c51f514e20b274c21982319b",
+    "assets/img/builds/web-based-order-management-system-playful.webp": "6cf962442b31cebe02531a5587d4329502711f1da12609a8d25876fe7713905a",
+    "assets/img/builds/web-based-order-management-system.png": "614ba506a15cd37b8122166dbc415631f4ef1c9d7b1c77560ec36e222d9df448",
+    "assets/img/builds/web-based-trade-blotter-for-hedge-funds-playful.png": "263e5d41dff1c1894818b50b97fa3f1db453d5c38d66eec295fc9e8ac552e933",
+    "assets/img/builds/web-based-trade-blotter-for-hedge-funds-playful.webp": "984e241ef3522e0c6de6364eab4d0f6121ceae203266b92307e9265cd39434b7",
+    "assets/img/builds/web-based-trade-blotter-for-hedge-funds.png": "cb5ed84a9b44725dc6c2a7838de59617952cb34df29ec5088afa25e518be71ae",
+    "assets/img/builds/web-based-trade-capture-for-hedge-funds-playful.png": "6f1a4421c75ea1116fe275e8b418cd0e22ebf92c6de758383c79acc0ffe2d143",
+    "assets/img/builds/web-based-trade-capture-for-hedge-funds-playful.webp": "9e03743b458e9cd366800a602f300be540b602f4af1d5ffcbd05a664bcd6bd65",
+    "assets/img/builds/web-based-trade-capture-for-hedge-funds.png": "fdab4bc62696a81ee3273414fde8e303c1fd520d1fd059aadd6c3aa53240c9b7",
+    "assets/img/ideas/api-of-you-playful.png": "e24115fd745cb8b0303d9379e2101c25cf478bd26404036570e6fc16eb3bd50e",
+    "assets/img/ideas/api-of-you-playful.webp": "bba72b6386f0f4509106b71873f537abfbe661e26761395b2d7e3105e8bc3613",
+    "assets/img/ideas/api-of-you.png": "a7cb8607ae431bf6c37bc7e10f60e97b22d766d2f2cfe10c6dea89c952ab21eb",
+    "assets/img/ideas/clicknowpaylater-com-playful.png": "0c6f5cc05024856dc8265cafa1a684ed3051ff29f84350cb525848299095d677",
+    "assets/img/ideas/clicknowpaylater-com-playful.webp": "af79e9cf4e0510cda0768343855c9aae13d6606e9dd6e7501cc6ace7c9ab3260",
+    "assets/img/ideas/clicknowpaylater-com.png": "03abcad74451d13f9991352e76871530bca4f98191073d10021d8a6d5708e0be",
+    "assets/img/ideas/code-art-playful.png": "1bba2967b0b30a70d2a8a9e25412a2e2fd8d29d4116a5df844c6e5f1ad4bd473",
+    "assets/img/ideas/code-art-playful.webp": "a46097cb4bbc69c55c129ed04b9e2a2c34dffa0787d6119ad140c2119e9e9f3c",
+    "assets/img/ideas/code-art.png": "f3438f53bac9572d7049ff944da6b1a4102774346cd0b386b979254bb2b03346",
+    "assets/img/ideas/discoverthis-com-playful.png": "9e6fd3b071d45129144a1de35b52b008e589ced47e3a7c8fc91ad5820151aaca",
+    "assets/img/ideas/discoverthis-com-playful.webp": "d6cc76f158d6239620b98545064ca3415f612870ada079ad6503bb91942b80a2",
+    "assets/img/ideas/discoverthis-com-poster.jpg": "8844d4ac16906913b4b9af41ea64858e57b94007f2f9a7932a7934e0c820e661",
+    "assets/img/ideas/discoverthis-com.png": "640bcd4a6ede0ff1e81146c2635fea971da83c4387e2ad70db6dbaec05d5bb57",
+    "assets/img/ideas/estatebox-com-playful.png": "a4badbba3fabd590ddd676a87b7802a0b3a1a004de6c76b2c19e0c692374322c",
+    "assets/img/ideas/estatebox-com-playful.webp": "87fa824836f8a865edc004d663a35a167f7aac99253b1afe5d912368d677458c",
+    "assets/img/ideas/estatebox-com.png": "9bffc297e86dd2f5998873484b27e07e78d7085876068c1b9640cce9364f7e5a",
+    "assets/img/ideas/knowledge-matching-app-playful.png": "1862e7b2967bb54c205bc2de5d31bdc61a13ae5fc03485179d4cd08ebaba84fb",
+    "assets/img/ideas/knowledge-matching-app-playful.webp": "126e0f53e3f0cfeb0d4eb134eb3257e67ecb79da1f13f76e5c340cce3ca4dada",
+    "assets/img/ideas/knowledge-matching-app-poster.jpg": "e1af847996ad1961d0b1ab41161b6b1f8bb2c0162d3567245da81d8f109891b5",
+    "assets/img/ideas/knowledge-matching-app.png": "0be441771acfec1ef0db9d2c828ffd4d4565bdc37e12b40dff27829ab4746421",
+    "assets/img/ideas/linkbox-playful.png": "ac83cd8f737a0402bd7908efad05b28037bbb42504853911b7885494dcdc8460",
+    "assets/img/ideas/linkbox-playful.webp": "cab1009d7b9168f0b17c7fe41afb822b94e74bd57639d5eef0b567727fc2c54b",
+    "assets/img/ideas/linkbox-poster.jpg": "88a2d6765dc0d1eb40d72a5980e73fdf1ee5ead00a6dadb4e3706c4785be7d21",
+    "assets/img/ideas/linkbox.png": "269fcd97605803e00a547c83db852e4f6ca1d7c52947e0fe3d1839ab3973bee9",
+    "assets/img/ideas/liquipak-playful.png": "3a44db12994aab2e5a5598585e78e14ccbf8bce1882e3314704935ca3385e72d",
+    "assets/img/ideas/liquipak-playful.webp": "a2ccb93825c0c99409596d9473fe200a2e20c544416a1d3909d2b998985a2fad",
+    "assets/img/ideas/liquipak.png": "3d1342ee6a1c6c70c06da06d3d4930d5fb6fba3898431af39dddbeb2c84b2ded",
+    "assets/img/ideas/non-slip-burger-buns-playful.png": "c32a1700c69db2f2e3db71e6b76e82dde94b41f8104d7c2b93a85f514d347aeb",
+    "assets/img/ideas/non-slip-burger-buns-playful.webp": "fe2f29a6c92329b2317fb400c30e43d1edda28b1bb1b3384ec31751a77423b1c",
+    "assets/img/ideas/non-slip-burger-buns-poster.jpg": "6e14433690978d2c56c0b2c6734d9b50593159b84921c04f9446758fd99c2a1f",
+    "assets/img/ideas/non-slip-burger-buns.png": "8189ad9836910304b32620d10af2a2e6b26f1c51baeb5e46c279d7f254810545",
+    "assets/img/ideas/orbitthis-com-playful.png": "b80bd1006d4932c12ee1637e585a7fed12bf991309f096f012a0bc6a22455b33",
+    "assets/img/ideas/orbitthis-com-playful.webp": "263f446af39bbce55fa60ed6076e4ba8effc74281066f8c3a000b7740646d703",
+    "assets/img/ideas/orbitthis-com.png": "2968191a0d08bbcc3438ac3a4aa7779197629c9767fa0be901b4bbd367062b26",
+    "assets/img/ideas/point-of-sale-betting-terminals-playful.png": "81cfd32c4813d73116de0a15cb251dee6eeea4da7cbff46900538eb94adac397",
+    "assets/img/ideas/point-of-sale-betting-terminals-playful.webp": "437068c9071ef8ee0d4f6df99a5d6255839c317e026c5bd440b4ff573ee0391b",
+    "assets/img/ideas/point-of-sale-betting-terminals.png": "b956eeb67c593c8cdac53be4231f3a7f2b29d4fd376cee2cdf740cfb70aa9449",
+    "assets/img/ideas/postbox-playful.png": "34cfc536649c154195db25114987e9d785d8db72dec82bbd89d5d8435ba96606",
+    "assets/img/ideas/postbox-playful.webp": "efc671053e2c307a46764f3a3206eb3520dcee490939e5786978b35b5a948432",
+    "assets/img/ideas/postbox.png": "e2673be2832a9966748566bcd0df8946ac9601cfe76d8c712246779041268588",
+    "assets/img/ideas/skiverts-com-playful.png": "354e5e4ea5ebed708d9b9d58192b4d71296af80c86b785a6e34fbba98425ff45",
+    "assets/img/ideas/skiverts-com-playful.webp": "bf76561653b851c60ec27be29a48635e1fa5b5016dc9176988a726725b581858",
+    "assets/img/ideas/skiverts-com.png": "c2ad7dc2bf4ab805370368db190e71cf8f76449a1efe748916cb2ff37a948bf1",
+    "assets/img/ideas/syscretionary-com-playful.png": "45440d74b069fd7c9632b0c550dbc1dd474fb1181e8820c73c5233576e592a42",
+    "assets/img/ideas/syscretionary-com-playful.webp": "83e1382b0646f094544b117e0bcbb8dd50bec592f22174610d830ce46d8f7b20",
+    "assets/img/ideas/syscretionary-com.png": "45374c122153cf6d7910e2885c7f6293045e24962ef02005b3a436b6c3f2eda1",
+    "assets/img/ideas/technologymanager-com-playful.png": "a0bf259b144f89172e67c9b51b1df7bc1157e820f89b6e9b6fb2ff3251ed68cd",
+    "assets/img/ideas/technologymanager-com-playful.webp": "f44fb6f520603056e886195d714ac683eedde40dea70302f537bb6bb07348529",
+    "assets/img/ideas/technologymanager-com.png": "fa6b9a07a16cec343b8e787c2a085b733b1a4432bdad978f41229f167450d82d",
+    "assets/img/journey/capital-coders.webp": "95323381b33a327ac5e241b419294afb0ac6fb2b375ef1ad3822bd0662e8bf51",
+    "assets/img/journey/equity-research.webp": "cd79e0edf31b00065e848e54063ce8a4fe897bb86628644932d8a7b65c3afb19",
+    "assets/img/journey/harkster.webp": "134f34f810942b4a0427a1d388bbfbe773d38ebd4f762bef17490ee9a4c5a667",
+    "assets/img/journey/hedgd.webp": "8b3b5b6174da192760151cc5edbcc676cf31e09a7d0c3d2b04f9154f879933bc",
+    "assets/img/journey/systematic-strategy.webp": "149d7e7b2e905030f69608b3d1ba74e6b7587da3601d3db29d7d5abbd53d487e",
+    "assets/img/journey/trademanager.webp": "80a1cc5bc80efcb54ba7ff62f93ef4d2b46f4206c0e8cf4c99cf4db7c15366b2",
+    "assets/img/profile-matt.png": "009e8a360756673c602be2ade235e8f94daa3eedb57f0ea4dd939d8473e57f4f",
+    "assets/img/startups/cool-oak-technologies-playful.png": "2da7fdc39776b8117da125cb142af1b27fe9981dd7de519c6180051b776c0adc",
+    "assets/img/startups/cool-oak-technologies-playful.webp": "64806412af88bcf7772d2b00196ad2523957687373fddea681b48d4fca965737",
+    "assets/img/world-map.svg": "bf5afe080e88b8b10aa39283b96e1899c48dc1a471f5d83dffe0e933373a92fc",
+    "assets/js/journey.js": "6d0a2d17c4ea764db889bcca3c3289545f923357346e6dc7ac8f7da73a56cdfb",
+    "assets/js/main.js": "c8b25c111882c3159d0a86476798f26ddf990b925b943bffbd0efd4cdeb0d44c"
+  }
+}

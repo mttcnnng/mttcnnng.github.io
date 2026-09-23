@@ -1,0 +1,40 @@
+{
+  "id": "ideas/code-art",
+  "path": "/ideas/code-art/",
+  "output": "ideas/code-art/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "“Code Art”",
+  "listing": {
+    "title": "“Code Art”",
+    "summary": "Working code arranged as visual art.",
+    "dateLabel": "2009"
+  },
+  "head": {
+    "description": "Code Art idea: creative programming concept where working source code is arranged as visual and typographic art.",
+    "canonical": "https://mttcnnng.com/ideas/code-art/",
+    "ogTitle": "Code Art | Matt",
+    "ogDescription": "Code Art idea: creative programming concept where working source code is arranged as visual and typographic art.",
+    "ogUrl": "https://mttcnnng.com/ideas/code-art/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/code-art-playful.png",
+    "ogImageAlt": "Code Art preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Code Art | Matt",
+    "twitterDescription": "Code Art idea: creative programming concept where working source code is arranged as visual and typographic art.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/code-art-playful.png",
+    "title": "Code Art | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2009",
+    "sortYear": 2009
+  }
+}

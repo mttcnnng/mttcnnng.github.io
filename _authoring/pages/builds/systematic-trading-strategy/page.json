@@ -1,0 +1,40 @@
+{
+  "id": "builds/systematic-trading-strategy",
+  "path": "/builds/systematic-trading-strategy/",
+  "output": "builds/systematic-trading-strategy/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "editorial",
+  "title": "Systematic Trading Strategy",
+  "listing": {
+    "title": "Systematic Trading Strategy",
+    "summary": "Automated multi-asset strategy infrastructure.",
+    "dateLabel": "2011"
+  },
+  "head": {
+    "description": "Systematic Trading Strategy build: automated multi-asset strategy infrastructure for disciplined signal generation, execution and monitoring.",
+    "canonical": "https://mttcnnng.com/builds/systematic-trading-strategy/",
+    "ogTitle": "Systematic Trading Strategy | Matt",
+    "ogDescription": "Systematic Trading Strategy build: automated multi-asset strategy infrastructure for disciplined signal generation, execution and monitoring.",
+    "ogUrl": "https://mttcnnng.com/builds/systematic-trading-strategy/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/systematic-trading-strategy-playful.png",
+    "ogImageAlt": "Systematic Trading Strategy preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Systematic Trading Strategy | Matt",
+    "twitterDescription": "Systematic Trading Strategy build: automated multi-asset strategy infrastructure for disciplined signal generation, execution and monitoring.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/systematic-trading-strategy-playful.png",
+    "title": "Systematic Trading Strategy | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2011",
+    "sortYear": 2011
+  }
+}

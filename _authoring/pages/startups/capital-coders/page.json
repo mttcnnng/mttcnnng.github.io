@@ -1,0 +1,40 @@
+{
+  "id": "startups/capital-coders",
+  "path": "/startups/capital-coders/",
+  "output": "startups/capital-coders/index.html",
+  "kind": "startup",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Capital Coders Limited",
+  "listing": {
+    "title": "Capital Coders Limited",
+    "summary": "Hedge fund software products and consultancy.",
+    "dateLabel": "2007"
+  },
+  "head": {
+    "description": "Capital Coders Limited startup: hedge fund software products and consultancy, including TraderAnalytics and bespoke financial tools.",
+    "canonical": "https://mttcnnng.com/startups/capital-coders/",
+    "ogTitle": "Capital Coders Limited | Matt",
+    "ogDescription": "Capital Coders Limited startup: hedge fund software products and consultancy, including TraderAnalytics and bespoke financial tools.",
+    "ogUrl": "https://mttcnnng.com/startups/capital-coders/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/traderanalytics-com-playful.png",
+    "ogImageAlt": "Capital Coders Limited preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Capital Coders Limited | Matt",
+    "twitterDescription": "Capital Coders Limited startup: hedge fund software products and consultancy, including TraderAnalytics and bespoke financial tools.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/traderanalytics-com-playful.png",
+    "title": "Capital Coders Limited | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2007–2009",
+    "sortYear": 2007
+  }
+}

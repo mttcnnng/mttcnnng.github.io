@@ -1,0 +1,40 @@
+{
+  "id": "ideas/technologymanager-com",
+  "path": "/ideas/technologymanager-com/",
+  "output": "ideas/technologymanager-com/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Technology Manager .com",
+  "listing": {
+    "title": "TechnologyManager.com",
+    "summary": "Management clarity for IT and digital assets.",
+    "dateLabel": "2015"
+  },
+  "head": {
+    "description": "TechnologyManager.com idea: SaaS concept for managing IT assets, suppliers, renewals, ownership and technology spend.",
+    "canonical": "https://mttcnnng.com/ideas/technologymanager-com/",
+    "ogTitle": "TechnologyManager.com | Matt",
+    "ogDescription": "TechnologyManager.com idea: SaaS concept for managing IT assets, suppliers, renewals, ownership and technology spend.",
+    "ogUrl": "https://mttcnnng.com/ideas/technologymanager-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/technologymanager-com-playful.png",
+    "ogImageAlt": "TechnologyManager.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "TechnologyManager.com | Matt",
+    "twitterDescription": "TechnologyManager.com idea: SaaS concept for managing IT assets, suppliers, renewals, ownership and technology spend.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/technologymanager-com-playful.png",
+    "title": "TechnologyManager.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2015",
+    "sortYear": 2015
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ideas/point-of-sale-betting-terminals",
+  "path": "/ideas/point-of-sale-betting-terminals/",
+  "output": "ideas/point-of-sale-betting-terminals/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "editorial",
+  "title": "Point-of-Sale Betting Terminals",
+  "listing": {
+    "title": "Point-of-Sale Betting Terminals",
+    "summary": "Venue-based self-service betting exchange access.",
+    "dateLabel": "2003"
+  },
+  "head": {
+    "description": "Point-of-Sale Betting Terminals idea: venue-based self-service betting exchange access concept for public spaces.",
+    "canonical": "https://mttcnnng.com/ideas/point-of-sale-betting-terminals/",
+    "ogTitle": "Point-of-Sale Betting Terminals | Matt",
+    "ogDescription": "Point-of-Sale Betting Terminals idea: venue-based self-service betting exchange access concept for public spaces.",
+    "ogUrl": "https://mttcnnng.com/ideas/point-of-sale-betting-terminals/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/point-of-sale-betting-terminals-playful.png",
+    "ogImageAlt": "Point-of-Sale Betting Terminals preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Point-of-Sale Betting Terminals | Matt",
+    "twitterDescription": "Point-of-Sale Betting Terminals idea: venue-based self-service betting exchange access concept for public spaces.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/point-of-sale-betting-terminals-playful.png",
+    "title": "Point-of-Sale Betting Terminals | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2003",
+    "sortYear": 2003
+  }
+}

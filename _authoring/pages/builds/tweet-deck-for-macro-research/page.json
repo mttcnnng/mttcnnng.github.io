@@ -1,0 +1,40 @@
+{
+  "id": "builds/tweet-deck-for-macro-research",
+  "path": "/builds/tweet-deck-for-macro-research/",
+  "output": "builds/tweet-deck-for-macro-research/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "‘Tweet Deck’ for Macro Research",
+  "listing": {
+    "title": "‘Tweet Deck’ for Macro Research",
+    "summary": "Customisable dashboard for market intelligence, research feeds and narrative tracking.",
+    "dateLabel": "2023"
+  },
+  "head": {
+    "description": "&#39;Tweet Deck&#39; for Macro Research build: customisable dashboard for streaming market intelligence, research feeds and narrative tracking.",
+    "canonical": "https://mttcnnng.com/builds/tweet-deck-for-macro-research/",
+    "ogTitle": "‘Tweet Deck’ for Macro Research | Matt",
+    "ogDescription": "&#39;Tweet Deck&#39; for Macro Research build: customisable dashboard for streaming market intelligence, research feeds and narrative tracking.",
+    "ogUrl": "https://mttcnnng.com/builds/tweet-deck-for-macro-research/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/tweet-deck-for-macro-research-playful.png",
+    "ogImageAlt": "‘Tweet Deck’ for Macro Research preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "‘Tweet Deck’ for Macro Research | Matt",
+    "twitterDescription": "&#39;Tweet Deck&#39; for Macro Research build: customisable dashboard for streaming market intelligence, research feeds and narrative tracking.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/tweet-deck-for-macro-research-playful.png",
+    "title": "&lsquo;Tweet Deck&rsquo; for Macro Research | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2023",
+    "sortYear": 2023
+  }
+}

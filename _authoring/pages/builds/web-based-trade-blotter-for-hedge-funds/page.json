@@ -1,0 +1,40 @@
+{
+  "id": "builds/web-based-trade-blotter-for-hedge-funds",
+  "path": "/builds/web-based-trade-blotter-for-hedge-funds/",
+  "output": "builds/web-based-trade-blotter-for-hedge-funds/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Web-Based Trade Blotter for Hedge Funds",
+  "listing": {
+    "title": "Web-Based Trade Blotter for Hedge Funds",
+    "summary": "Consolidated trade ordering, execution and allocation platform.",
+    "dateLabel": "2003"
+  },
+  "head": {
+    "description": "Web-Based Trade Blotter for Hedge Funds build: consolidated trade ordering, execution and allocation platform for front-office workflows.",
+    "canonical": "https://mttcnnng.com/builds/web-based-trade-blotter-for-hedge-funds/",
+    "ogTitle": "Web-Based Trade Blotter for Hedge Funds | Matt",
+    "ogDescription": "Web-Based Trade Blotter for Hedge Funds build: consolidated trade ordering, execution and allocation platform for front-office workflows.",
+    "ogUrl": "https://mttcnnng.com/builds/web-based-trade-blotter-for-hedge-funds/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/web-based-trade-blotter-for-hedge-funds-playful.png",
+    "ogImageAlt": "Web-Based Trade Blotter for Hedge Funds preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Web-Based Trade Blotter for Hedge Funds | Matt",
+    "twitterDescription": "Web-Based Trade Blotter for Hedge Funds build: consolidated trade ordering, execution and allocation platform for front-office workflows.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/web-based-trade-blotter-for-hedge-funds-playful.png",
+    "title": "Web-Based Trade Blotter for Hedge Funds | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2003",
+    "sortYear": 2003
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "builds/web-based-order-management-system",
+  "path": "/builds/web-based-order-management-system/",
+  "output": "builds/web-based-order-management-system/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Web-Based Order Management System",
+  "listing": {
+    "title": "Web-Based Order Management System",
+    "summary": "Multi-asset SaaS order management system.",
+    "dateLabel": "2016"
+  },
+  "head": {
+    "description": "Web-Based Order Management System build: multi-asset SaaS OMS with allocation, charge and FIX engines for trading workflows.",
+    "canonical": "https://mttcnnng.com/builds/web-based-order-management-system/",
+    "ogTitle": "Web-Based Order Management System | Matt",
+    "ogDescription": "Web-Based Order Management System build: multi-asset SaaS OMS with allocation, charge and FIX engines for trading workflows.",
+    "ogUrl": "https://mttcnnng.com/builds/web-based-order-management-system/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/web-based-order-management-system-playful.png",
+    "ogImageAlt": "Web-Based Order Management System preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Web-Based Order Management System | Matt",
+    "twitterDescription": "Web-Based Order Management System build: multi-asset SaaS OMS with allocation, charge and FIX engines for trading workflows.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/web-based-order-management-system-playful.png",
+    "title": "Web-Based Order Management System | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2016",
+    "sortYear": 2016
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "builds/traderanalytics-com",
+  "path": "/builds/traderanalytics-com/",
+  "output": "builds/traderanalytics-com/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "TraderAnalytics .com",
+  "listing": {
+    "title": "TraderAnalytics.com",
+    "summary": "Trading performance analytics for traders and managers.",
+    "dateLabel": "2007"
+  },
+  "head": {
+    "description": "TraderAnalytics.com build: trading performance analytics platform for understanding trader behaviour, profitability and management signals.",
+    "canonical": "https://mttcnnng.com/builds/traderanalytics-com/",
+    "ogTitle": "TraderAnalytics.com | Matt",
+    "ogDescription": "TraderAnalytics.com build: trading performance analytics platform for understanding trader behaviour, profitability and management signals.",
+    "ogUrl": "https://mttcnnng.com/builds/traderanalytics-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/traderanalytics-com-playful.png",
+    "ogImageAlt": "TraderAnalytics.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "TraderAnalytics.com | Matt",
+    "twitterDescription": "TraderAnalytics.com build: trading performance analytics platform for understanding trader behaviour, profitability and management signals.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/traderanalytics-com-playful.png",
+    "title": "TraderAnalytics.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2007",
+    "sortYear": 2007
+  }
+}

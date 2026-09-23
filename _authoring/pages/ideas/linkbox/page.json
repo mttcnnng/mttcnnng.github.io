@@ -1,0 +1,40 @@
+{
+  "id": "ideas/linkbox",
+  "path": "/ideas/linkbox/",
+  "output": "ideas/linkbox/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "LinkBox",
+  "listing": {
+    "title": "LinkBox",
+    "summary": "A private home for saved links and recommendations.",
+    "dateLabel": "2022"
+  },
+  "head": {
+    "description": "LinkBox idea: private inbox concept for saving, organising and sharing links before they disappear in conversations.",
+    "canonical": "https://mttcnnng.com/ideas/linkbox/",
+    "ogTitle": "LinkBox | Matt",
+    "ogDescription": "LinkBox idea: private inbox concept for saving, organising and sharing links before they disappear in conversations.",
+    "ogUrl": "https://mttcnnng.com/ideas/linkbox/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/linkbox-poster.jpg",
+    "ogImageAlt": "LinkBox preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "LinkBox | Matt",
+    "twitterDescription": "LinkBox idea: private inbox concept for saving, organising and sharing links before they disappear in conversations.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/linkbox-poster.jpg",
+    "title": "LinkBox | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2022",
+    "sortYear": 2022
+  }
+}

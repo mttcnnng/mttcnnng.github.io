@@ -1,0 +1,40 @@
+{
+  "id": "ideas/syscretionary-com",
+  "path": "/ideas/syscretionary-com/",
+  "output": "ideas/syscretionary-com/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Syscretionary .com",
+  "listing": {
+    "title": "Syscretionary.com",
+    "summary": "Trading judgement blended with rules-based discipline.",
+    "dateLabel": "Idea"
+  },
+  "head": {
+    "description": "Syscretionary.com idea: chart-based trading concept blending discretionary judgement with rules-based strategy discipline.",
+    "canonical": "https://mttcnnng.com/ideas/syscretionary-com/",
+    "ogTitle": "Syscretionary.com | Matt",
+    "ogDescription": "Syscretionary.com idea: chart-based trading concept blending discretionary judgement with rules-based strategy discipline.",
+    "ogUrl": "https://mttcnnng.com/ideas/syscretionary-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/syscretionary-com-playful.png",
+    "ogImageAlt": "Syscretionary.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Syscretionary.com | Matt",
+    "twitterDescription": "Syscretionary.com idea: chart-based trading concept blending discretionary judgement with rules-based strategy discipline.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/syscretionary-com-playful.png",
+    "title": "Syscretionary.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": null,
+    "sortYear": null
+  }
+}

@@ -1,0 +1,49 @@
+    <main id="main-content" class="page-shell editorial-detail editorial-detail--build">
+      <a class="back-link" href="../../archive/builds/"><span aria-hidden="true">&larr;</span> Builds archive</a>
+      <header class="editorial-detail__hero">
+        <p class="editorial-detail__meta">2023 <span aria-hidden="true">·</span> Build <span aria-hidden="true">·</span> Harkster Limited</p>
+        <h1 id="page-title">Harkster</h1>
+        <p class="editorial-detail__lede">An AI-powered institutional research platform for identifying consensus, uncovering hidden trade ideas and highlighting market-moving events across existing research feeds.</p>
+        <a class="editorial-detail__link" href="https://harkster.com" target="_blank" rel="noopener">Visit Harkster <span aria-hidden="true">&nearr;</span></a>
+      </header>
+
+      <div class="editorial-detail__body">
+        <section class="editorial-detail__section" aria-labelledby="harkster-origin">
+          <h2 id="harkster-origin">Where it came from</h2>
+          <p>I'd long been fascinated by the idea of a stock ticker. Earlier in my career I built a desktop ticker for stop losses, profit targets, broker recommendations and other trading notifications. It was clean, concise and well received. What stayed with me was that it earned a little space on a portfolio manager's screen. That space was valuable.</p>
+          <p>Harkster grew from the same interest in surfacing something useful without asking people to adopt a large new workflow. It didn't begin as an AI research summarisation platform. We found a customer in macro research with a clearer immediate problem and changed direction around that opportunity.</p>
+        </section>
+        <section class="editorial-detail__section" aria-labelledby="harkster-purpose">
+          <h2 id="harkster-purpose">What the problem became</h2>
+          <p>Macro research arrives as email, PDFs, podcasts, RSS and links to other sites and portals. The first version of Harkster was closer to a research directory: follow a provider, see new work when it arrived, then go to the source. I thought of it as closer to TweetDeck than a conventional research-management platform.</p>
+          <p>As more of the practical problem centred on research received by email, AI gave us a way to do more than signal its arrival. We built a proof of concept that could receive an email, parse it, summarise it and break it into useful chunks. We tested it in several environments. Corporate research email could not always be forwarded to a new external address, so we built direct corporate-email integration to process research where it already arrived, within the organisation's existing email and compliance environment.</p>
+        </section>
+        <section class="editorial-detail__section" aria-labelledby="harkster-contribution">
+          <h2 id="harkster-contribution">What I built</h2>
+          <p>The real-time Harkster Kernel processed existing research feeds and powered proprietary AI assistants for alpha discovery, either in the product or through integrations with internal systems.</p>
+          <p>I developed the platform using C#, Vue, ASP.NET and .NET Orleans, including support for bespoke AI assistants and agents tailored to client workflows.</p>
+          <p>It helped users turn existing research into timely consensus signals, hidden trade ideas and awareness of market-moving events.</p>
+        </section>
+        <section class="editorial-detail__section" aria-labelledby="harkster-constraint">
+          <h2 id="harkster-constraint">The hard part</h2>
+          <p>The biggest constraint now isn't summarisation. It's access to the research itself. Most of the research we work with flows through email or attachments and can be processed. Some arrives as a link to a publisher portal behind authentication or a paywall. Harkster can summarise and structure content it can reach; it cannot create access to content locked in another system.</p>
+        </section>
+        <figure class="editorial-detail__figure">
+          <img src="../../assets/img/builds/harkster-playful.webp" alt="Playful Harkster illustration inspired by the build concept" width="1693" height="929" loading="lazy" decoding="async">
+          <figcaption>Playful monochrome illustration inspired by Harkster.</figcaption>
+        </figure>
+        <section class="editorial-detail__technical" aria-labelledby="harkster-technical">
+          <h2 id="harkster-technical">Technical notes</h2>
+          <dl>
+            <div><dt>Architecture</dt><dd>Clean Architecture, distributed systems, actor-based architecture, RESTful APIs</dd></div>
+            <div><dt>Deliverables</dt><dd>Marketing website · single-page application · REST API server · Model Context Protocol (MCP) server · .NET Orleans silo</dd></div>
+            <div><dt>Deployment</dt><dd>Microsoft Azure</dd></div>
+            <div><dt>Technologies</dt><dd>C# · ASP.NET Core Web API · Razor Pages · Vue.js · Tailwind CSS · Azure Cosmos DB · Azure SQL Database · Azure SignalR Service · Azure Storage · Microsoft Entra ID · Microsoft Graph · .NET Orleans · Azure Front Door · T-SQL</dd></div>
+          </dl>
+        </section>
+        <section class="editorial-detail__section" aria-labelledby="harkster-looking-back">
+          <h2 id="harkster-looking-back">Where it stands</h2>
+          <p>Harkster has shown me that AI has a real place in working with macro research. It can turn a large, messy flow into something more concise and usable. But I don't think we've proved product-market fit. I still don't know whether we've solved a problem important enough for someone to say, “I need this in my life.”</p>
+        </section>
+      </div>
+    </main>

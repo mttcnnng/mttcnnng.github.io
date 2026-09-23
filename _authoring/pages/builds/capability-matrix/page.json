@@ -1,0 +1,40 @@
+{
+  "id": "builds/capability-matrix",
+  "path": "/builds/capability-matrix/",
+  "output": "builds/capability-matrix/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Capability Matrix",
+  "listing": {
+    "title": "Capability Matrix",
+    "summary": "Programme capability tracking and governance app.",
+    "dateLabel": "2015"
+  },
+  "head": {
+    "description": "Capability Matrix build: programme capability tracking and governance app for delivery visibility, ownership and management reporting.",
+    "canonical": "https://mttcnnng.com/builds/capability-matrix/",
+    "ogTitle": "Capability Matrix | Matt",
+    "ogDescription": "Capability Matrix build: programme capability tracking and governance app for delivery visibility, ownership and management reporting.",
+    "ogUrl": "https://mttcnnng.com/builds/capability-matrix/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/capability-matrix-playful.png",
+    "ogImageAlt": "Capability Matrix preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Capability Matrix | Matt",
+    "twitterDescription": "Capability Matrix build: programme capability tracking and governance app for delivery visibility, ownership and management reporting.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/capability-matrix-playful.png",
+    "title": "Capability Matrix | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2015",
+    "sortYear": 2015
+  }
+}

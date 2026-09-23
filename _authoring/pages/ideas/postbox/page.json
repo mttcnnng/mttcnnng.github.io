@@ -1,0 +1,40 @@
+{
+  "id": "ideas/postbox",
+  "path": "/ideas/postbox/",
+  "output": "ideas/postbox/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Postbox",
+  "listing": {
+    "title": "Postbox",
+    "summary": "Morning printouts from chosen digital updates.",
+    "dateLabel": "2008"
+  },
+  "head": {
+    "description": "Postbox idea: connected home printer concept for turning chosen digital updates into physical morning briefings.",
+    "canonical": "https://mttcnnng.com/ideas/postbox/",
+    "ogTitle": "Postbox | Matt",
+    "ogDescription": "Postbox idea: connected home printer concept for turning chosen digital updates into physical morning briefings.",
+    "ogUrl": "https://mttcnnng.com/ideas/postbox/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/postbox-playful.png",
+    "ogImageAlt": "Postbox preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Postbox | Matt",
+    "twitterDescription": "Postbox idea: connected home printer concept for turning chosen digital updates into physical morning briefings.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/postbox-playful.png",
+    "title": "Postbox | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2008",
+    "sortYear": 2008
+  }
+}

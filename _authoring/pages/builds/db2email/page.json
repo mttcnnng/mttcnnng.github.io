@@ -1,0 +1,40 @@
+{
+  "id": "builds/db2email",
+  "path": "/builds/db2email/",
+  "output": "builds/db2email/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "DB2Email",
+  "listing": {
+    "title": "DB2Email",
+    "summary": "Scheduled SQL-to-HTML-email reporting service.",
+    "dateLabel": "2009"
+  },
+  "head": {
+    "description": "DB2Email build: scheduled SQL-to-HTML email reporting service for database-driven operational updates and automated distribution.",
+    "canonical": "https://mttcnnng.com/builds/db2email/",
+    "ogTitle": "DB2Email | Matt",
+    "ogDescription": "DB2Email build: scheduled SQL-to-HTML email reporting service for database-driven operational updates and automated distribution.",
+    "ogUrl": "https://mttcnnng.com/builds/db2email/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/db2email-playful.png",
+    "ogImageAlt": "DB2Email preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "DB2Email | Matt",
+    "twitterDescription": "DB2Email build: scheduled SQL-to-HTML email reporting service for database-driven operational updates and automated distribution.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/db2email-playful.png",
+    "title": "DB2Email | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2009",
+    "sortYear": 2009
+  }
+}

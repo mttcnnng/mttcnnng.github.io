@@ -1,0 +1,40 @@
+{
+  "id": "builds/fintiq",
+  "path": "/builds/fintiq/",
+  "output": "builds/fintiq/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "FinTiq",
+  "listing": {
+    "title": "FinTiq",
+    "summary": "Channel-based notification and discussion app.",
+    "dateLabel": "2019"
+  },
+  "head": {
+    "description": "FinTiq build: channel-based notification and discussion app for real-time updates, searchable messages and configurable financial workflows.",
+    "canonical": "https://mttcnnng.com/builds/fintiq/",
+    "ogTitle": "FinTiq | Matt",
+    "ogDescription": "FinTiq build: channel-based notification and discussion app for real-time updates, searchable messages and configurable financial workflows.",
+    "ogUrl": "https://mttcnnng.com/builds/fintiq/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/fintiq-playful.png",
+    "ogImageAlt": "FinTiq preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "FinTiq | Matt",
+    "twitterDescription": "FinTiq build: channel-based notification and discussion app for real-time updates, searchable messages and configurable financial workflows.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/fintiq-playful.png",
+    "title": "FinTiq | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2019",
+    "sortYear": 2019
+  }
+}

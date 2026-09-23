@@ -1,0 +1,40 @@
+{
+  "id": "builds/trade-reconciliation",
+  "path": "/builds/trade-reconciliation/",
+  "output": "builds/trade-reconciliation/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Trade Reconciliation",
+  "listing": {
+    "title": "Trade Reconciliation",
+    "summary": "Broker/internal trade reconciliation tool.",
+    "dateLabel": "2009"
+  },
+  "head": {
+    "description": "Trade Reconciliation build: broker and internal trade reconciliation tool for exception management, matching and operational control.",
+    "canonical": "https://mttcnnng.com/builds/trade-reconciliation/",
+    "ogTitle": "Trade Reconciliation | Matt",
+    "ogDescription": "Trade Reconciliation build: broker and internal trade reconciliation tool for exception management, matching and operational control.",
+    "ogUrl": "https://mttcnnng.com/builds/trade-reconciliation/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/trade-reconciliation-playful.png",
+    "ogImageAlt": "Trade Reconciliation preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Trade Reconciliation | Matt",
+    "twitterDescription": "Trade Reconciliation build: broker and internal trade reconciliation tool for exception management, matching and operational control.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/trade-reconciliation-playful.png",
+    "title": "Trade Reconciliation | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2009",
+    "sortYear": 2009
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "builds/betsweeper",
+  "path": "/builds/betsweeper/",
+  "output": "builds/betsweeper/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "BetSweeper",
+  "listing": {
+    "title": "BetSweeper",
+    "summary": "Betting exchange aggregation and automated bet placement.",
+    "dateLabel": "2002"
+  },
+  "head": {
+    "description": "BetSweeper build: betting exchange aggregation and automated bet placement platform for comparing markets and executing strategies.",
+    "canonical": "https://mttcnnng.com/builds/betsweeper/",
+    "ogTitle": "BetSweeper | Matt",
+    "ogDescription": "BetSweeper build: betting exchange aggregation and automated bet placement platform for comparing markets and executing strategies.",
+    "ogUrl": "https://mttcnnng.com/builds/betsweeper/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/betsweeper-playful.png",
+    "ogImageAlt": "BetSweeper preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "BetSweeper | Matt",
+    "twitterDescription": "BetSweeper build: betting exchange aggregation and automated bet placement platform for comparing markets and executing strategies.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/betsweeper-playful.png",
+    "title": "BetSweeper | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2002",
+    "sortYear": 2002
+  }
+}

@@ -3,12 +3,11 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
-const home = readFileSync(join(root, "index.html"), "utf8");
 const journey = readFileSync(join(root, "journey", "index.html"), "utf8");
-const contentHrefPattern = /href="((?:builds|startups|ideas)\/[^"#?]+\/)"/g;
+const catalog = JSON.parse(readFileSync(join(root, "_authoring", "catalog.json"), "utf8"));
 const journeyEntryPattern = /data-entry-id="((?:builds|startups|ideas)\/[^"]+)"[\s\S]*?href="\.\.\/((?:builds|startups|ideas)\/[^"#?]+\/)"/g;
 
-const expected = [...home.matchAll(contentHrefPattern)].map((match) => match[1]);
+const expected = catalog.pages.filter((id) => /^(?:builds|startups|ideas)\//.test(id)).map((id) => `${id}/`);
 const entries = [...journey.matchAll(journeyEntryPattern)].map((match) => ({
   id: `${match[1]}/`,
   href: match[2],
@@ -16,7 +15,7 @@ const entries = [...journey.matchAll(journeyEntryPattern)].map((match) => ({
 const failures = [];
 
 if (expected.length !== 46) {
-  failures.push(`Expected 46 homepage entries, found ${expected.length}.`);
+  failures.push(`Expected 46 catalogue entries, found ${expected.length}.`);
 }
 
 const expectedSet = new Set(expected);
@@ -39,7 +38,7 @@ for (const entry of entries) {
     failures.push(`Entry id ${entry.id} does not match href ${entry.href}.`);
   }
   if (!expectedSet.has(entry.href)) {
-    failures.push(`${entry.href} appears on Journey but not on the homepage.`);
+    failures.push(`${entry.href} appears on Journey but not in the catalogue.`);
   }
 }
 
@@ -88,5 +87,5 @@ if (failures.length) {
 } else {
   console.log("Journey validation passed.");
   console.log(`Entries: ${entries.length} (${counts.builds} builds, ${counts.startups} startups, ${counts.ideas} ideas)`);
-  console.log("All homepage entries appear exactly once and resolve to local detail pages.");
+  console.log("All catalogue entries appear exactly once and resolve to local detail pages.");
 }

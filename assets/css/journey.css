@@ -1,6 +1,6 @@
 .journey-essay-page {
   --journey-accent: var(--color-accent);
-  --journey-accent-ink: var(--color-accent);
+  --journey-accent-ink: var(--color-accent-ink);
   --journey-accent-soft: var(--color-accent-soft);
   --journey-rail: #d8d8d8;
   --journey-route-width: 46px;
@@ -535,6 +535,61 @@
   line-height: 21px;
 }
 
+.journey-map {
+  min-width: 0;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.journey-map summary {
+  padding-block: 15px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.journey-map__context {
+  max-width: 620px;
+  margin-block: 10px 0;
+  color: var(--color-secondary);
+  font-size: 13px;
+  line-height: 21px;
+}
+
+.journey-map .global-footprint {
+  padding-block: 24px 12px;
+}
+
+.journey-map .global-footprint__intro h3 {
+  font-size: 24px;
+  line-height: 1.25;
+}
+
+.journey-open-questions {
+  position: relative;
+  z-index: 2;
+  min-width: 0;
+  padding-block: 20px;
+  background: var(--color-bg);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.journey-open-questions > p {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.journey-open-questions ul {
+  display: grid;
+  gap: 10px;
+  margin: 14px 0 0;
+  padding-left: 20px;
+  color: var(--color-secondary);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
 .journey-chapter__transition {
   color: var(--color-primary);
   font-family: var(--font-display);
@@ -817,6 +872,28 @@
     padding: 18px 28px;
     background: #ffffff;
     text-align: center;
+  }
+
+  .journey-chapter--with-map .journey-map {
+    grid-column: 1 / -1;
+    grid-row: 4;
+    width: min(100%, 840px);
+    justify-self: center;
+  }
+
+  .journey-chapter--with-map .journey-chapter__transition {
+    grid-row: 5;
+  }
+
+  .journey-chapter--open .journey-open-questions {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    width: min(100%, 680px);
+    justify-self: center;
+  }
+
+  .journey-chapter--open .journey-chapter__transition {
+    grid-row: 3;
   }
 
   .journey-threads {

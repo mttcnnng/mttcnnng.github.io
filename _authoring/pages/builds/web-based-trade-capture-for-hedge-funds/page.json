@@ -1,0 +1,40 @@
+{
+  "id": "builds/web-based-trade-capture-for-hedge-funds",
+  "path": "/builds/web-based-trade-capture-for-hedge-funds/",
+  "output": "builds/web-based-trade-capture-for-hedge-funds/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Web-Based Trade Capture for Hedge Funds",
+  "listing": {
+    "title": "Web-Based Trade Capture for Hedge Funds",
+    "summary": "Web trade capture interfaces across asset classes.",
+    "dateLabel": "2001"
+  },
+  "head": {
+    "description": "Web-Based Trade Capture for Hedge Funds build: web trade capture interfaces across asset classes for financial workflow delivery.",
+    "canonical": "https://mttcnnng.com/builds/web-based-trade-capture-for-hedge-funds/",
+    "ogTitle": "Web-Based Trade Capture for Hedge Funds | Matt",
+    "ogDescription": "Web-Based Trade Capture for Hedge Funds build: web trade capture interfaces across asset classes for financial workflow delivery.",
+    "ogUrl": "https://mttcnnng.com/builds/web-based-trade-capture-for-hedge-funds/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/web-based-trade-capture-for-hedge-funds-playful.png",
+    "ogImageAlt": "Web-Based Trade Capture for Hedge Funds preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Web-Based Trade Capture for Hedge Funds | Matt",
+    "twitterDescription": "Web-Based Trade Capture for Hedge Funds build: web trade capture interfaces across asset classes for financial workflow delivery.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/web-based-trade-capture-for-hedge-funds-playful.png",
+    "title": "Web-Based Trade Capture for Hedge Funds | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2001",
+    "sortYear": 2001
+  }
+}

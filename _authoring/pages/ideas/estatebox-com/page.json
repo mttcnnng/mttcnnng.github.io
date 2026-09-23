@@ -1,0 +1,40 @@
+{
+  "id": "ideas/estatebox-com",
+  "path": "/ideas/estatebox-com/",
+  "output": "ideas/estatebox-com/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "EstateBox.com",
+  "listing": {
+    "title": "EstateBox.com",
+    "summary": "A trusted place for estate records and wishes.",
+    "dateLabel": "2013"
+  },
+  "head": {
+    "description": "EstateBox.com idea: secure estate-planning vault concept for important records, wishes and trusted representatives.",
+    "canonical": "https://mttcnnng.com/ideas/estatebox-com/",
+    "ogTitle": "EstateBox.com | Matt",
+    "ogDescription": "EstateBox.com idea: secure estate-planning vault concept for important records, wishes and trusted representatives.",
+    "ogUrl": "https://mttcnnng.com/ideas/estatebox-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/estatebox-com-playful.png",
+    "ogImageAlt": "EstateBox.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "EstateBox.com | Matt",
+    "twitterDescription": "EstateBox.com idea: secure estate-planning vault concept for important records, wishes and trusted representatives.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/estatebox-com-playful.png",
+    "title": "EstateBox.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2013",
+    "sortYear": 2013
+  }
+}

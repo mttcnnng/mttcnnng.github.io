@@ -1,0 +1,40 @@
+{
+  "id": "builds/microreports",
+  "path": "/builds/microreports/",
+  "output": "builds/microreports/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "MicroReports",
+  "listing": {
+    "title": "MicroReports",
+    "summary": "Bite-sized report publishing and knowledge-sharing platform.",
+    "dateLabel": "2020"
+  },
+  "head": {
+    "description": "MicroReports build: bite-sized report publishing and knowledge-sharing platform with channels, templates, notifications and discovery workflows.",
+    "canonical": "https://mttcnnng.com/builds/microreports/",
+    "ogTitle": "MicroReports | Matt",
+    "ogDescription": "MicroReports build: bite-sized report publishing and knowledge-sharing platform with channels, templates, notifications and discovery workflows.",
+    "ogUrl": "https://mttcnnng.com/builds/microreports/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/microreports-playful.png",
+    "ogImageAlt": "MicroReports preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "MicroReports | Matt",
+    "twitterDescription": "MicroReports build: bite-sized report publishing and knowledge-sharing platform with channels, templates, notifications and discovery workflows.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/microreports-playful.png",
+    "title": "MicroReports | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2020",
+    "sortYear": 2020
+  }
+}

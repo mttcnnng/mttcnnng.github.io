@@ -1,0 +1,40 @@
+{
+  "id": "ideas/clicknowpaylater-com",
+  "path": "/ideas/clicknowpaylater-com/",
+  "output": "ideas/clicknowpaylater-com/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "ClickNow PayLater .com",
+  "listing": {
+    "title": "ClickNowPayLater.com",
+    "summary": "Buy Now, Pay Later at checkout for web retailers.",
+    "dateLabel": "2008"
+  },
+  "head": {
+    "description": "ClickNowPayLater.com idea: Buy Now, Pay Later checkout concept for web retailers and monthly repayment purchases.",
+    "canonical": "https://mttcnnng.com/ideas/clicknowpaylater-com/",
+    "ogTitle": "ClickNowPayLater.com | Matt",
+    "ogDescription": "ClickNowPayLater.com idea: Buy Now, Pay Later checkout concept for web retailers and monthly repayment purchases.",
+    "ogUrl": "https://mttcnnng.com/ideas/clicknowpaylater-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/clicknowpaylater-com-playful.png",
+    "ogImageAlt": "ClickNowPayLater.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "ClickNowPayLater.com | Matt",
+    "twitterDescription": "ClickNowPayLater.com idea: Buy Now, Pay Later checkout concept for web retailers and monthly repayment purchases.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/clicknowpaylater-com-playful.png",
+    "title": "ClickNowPayLater.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2008",
+    "sortYear": 2008
+  }
+}

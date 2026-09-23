@@ -1,0 +1,40 @@
+{
+  "id": "builds/high-frequency-trading-monitor-toolkit",
+  "path": "/builds/high-frequency-trading-monitor-toolkit/",
+  "output": "builds/high-frequency-trading-monitor-toolkit/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "High-Frequency Trading Monitor Toolkit",
+  "listing": {
+    "title": "High-Frequency Trading Monitor Toolkit",
+    "summary": "Monitoring and control toolkit for HFT operations.",
+    "dateLabel": "2010"
+  },
+  "head": {
+    "description": "High-Frequency Trading Monitor Toolkit build: monitoring and control tools for HFT operations, diagnostics and production support.",
+    "canonical": "https://mttcnnng.com/builds/high-frequency-trading-monitor-toolkit/",
+    "ogTitle": "High-Frequency Trading Monitor Toolkit | Matt",
+    "ogDescription": "High-Frequency Trading Monitor Toolkit build: monitoring and control tools for HFT operations, diagnostics and production support.",
+    "ogUrl": "https://mttcnnng.com/builds/high-frequency-trading-monitor-toolkit/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/high-frequency-trading-monitor-toolkit-playful.png",
+    "ogImageAlt": "High-Frequency Trading Monitor Toolkit preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "High-Frequency Trading Monitor Toolkit | Matt",
+    "twitterDescription": "High-Frequency Trading Monitor Toolkit build: monitoring and control tools for HFT operations, diagnostics and production support.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/high-frequency-trading-monitor-toolkit-playful.png",
+    "title": "High-Frequency Trading Monitor Toolkit | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2010",
+    "sortYear": 2010
+  }
+}

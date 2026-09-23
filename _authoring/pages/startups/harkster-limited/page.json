@@ -1,0 +1,40 @@
+{
+  "id": "startups/harkster-limited",
+  "path": "/startups/harkster-limited/",
+  "output": "startups/harkster-limited/index.html",
+  "kind": "startup",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Harkster Limited",
+  "listing": {
+    "title": "Harkster Limited",
+    "summary": "AI-assisted institutional research products.",
+    "dateLabel": "2023"
+  },
+  "head": {
+    "description": "Harkster Limited startup: institutional research company building AI-assisted market intelligence and research workflow products.",
+    "canonical": "https://mttcnnng.com/startups/harkster-limited/",
+    "ogTitle": "Harkster Limited | Matt",
+    "ogDescription": "Harkster Limited startup: institutional research company building AI-assisted market intelligence and research workflow products.",
+    "ogUrl": "https://mttcnnng.com/startups/harkster-limited/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/harkster-playful.png",
+    "ogImageAlt": "Harkster Limited preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Harkster Limited | Matt",
+    "twitterDescription": "Harkster Limited startup: institutional research company building AI-assisted market intelligence and research workflow products.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/harkster-playful.png",
+    "title": "Harkster Limited | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2023–Present",
+    "sortYear": 2023
+  }
+}

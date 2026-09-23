@@ -1,0 +1,40 @@
+{
+  "id": "builds/option-price-chain-lookup-tool",
+  "path": "/builds/option-price-chain-lookup-tool/",
+  "output": "builds/option-price-chain-lookup-tool/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Option Price Chain Lookup Tool",
+  "listing": {
+    "title": "Option Price Chain Lookup Tool",
+    "summary": "Reuters-backed option chain analytics.",
+    "dateLabel": "2007"
+  },
+  "head": {
+    "description": "Option Price Chain Lookup Tool build: Reuters-backed option chain analytics for pricing, lookup and trading workflow support.",
+    "canonical": "https://mttcnnng.com/builds/option-price-chain-lookup-tool/",
+    "ogTitle": "Option Price Chain Lookup Tool | Matt",
+    "ogDescription": "Option Price Chain Lookup Tool build: Reuters-backed option chain analytics for pricing, lookup and trading workflow support.",
+    "ogUrl": "https://mttcnnng.com/builds/option-price-chain-lookup-tool/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/option-price-chain-lookup-tool-playful.png",
+    "ogImageAlt": "Option Price Chain Lookup Tool preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Option Price Chain Lookup Tool | Matt",
+    "twitterDescription": "Option Price Chain Lookup Tool build: Reuters-backed option chain analytics for pricing, lookup and trading workflow support.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/option-price-chain-lookup-tool-playful.png",
+    "title": "Option Price Chain Lookup Tool | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2007",
+    "sortYear": 2007
+  }
+}

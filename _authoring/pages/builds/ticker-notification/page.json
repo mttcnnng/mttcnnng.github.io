@@ -1,0 +1,40 @@
+{
+  "id": "builds/ticker-notification",
+  "path": "/builds/ticker-notification/",
+  "output": "builds/ticker-notification/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Ticker Notification",
+  "listing": {
+    "title": "Ticker Notification",
+    "summary": "Configurable ticker-channel notification app.",
+    "dateLabel": "2006"
+  },
+  "head": {
+    "description": "Ticker Notification build: configurable ticker-channel notification app for market updates, research messages and workflow alerts.",
+    "canonical": "https://mttcnnng.com/builds/ticker-notification/",
+    "ogTitle": "Ticker Notification | Matt",
+    "ogDescription": "Ticker Notification build: configurable ticker-channel notification app for market updates, research messages and workflow alerts.",
+    "ogUrl": "https://mttcnnng.com/builds/ticker-notification/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/ticker-notification-playful.png",
+    "ogImageAlt": "Ticker Notification preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Ticker Notification | Matt",
+    "twitterDescription": "Ticker Notification build: configurable ticker-channel notification app for market updates, research messages and workflow alerts.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/ticker-notification-playful.png",
+    "title": "Ticker Notification | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2006",
+    "sortYear": 2006
+  }
+}

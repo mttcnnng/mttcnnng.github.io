@@ -1,0 +1,40 @@
+{
+  "id": "builds/equity-research-platform-for-hedge-funds",
+  "path": "/builds/equity-research-platform-for-hedge-funds/",
+  "output": "builds/equity-research-platform-for-hedge-funds/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Equity Research Platform for Hedge Fund",
+  "listing": {
+    "title": "Equity Research Platform for Hedge Fund",
+    "summary": "Integrated research, portfolio, risk and black-box trading platform.",
+    "dateLabel": "2005"
+  },
+  "head": {
+    "description": "Equity Research Platform for Hedge Fund build: integrated research, portfolio, risk and black-box trading platform for hedge fund workflows.",
+    "canonical": "https://mttcnnng.com/builds/equity-research-platform-for-hedge-funds/",
+    "ogTitle": "Equity Research Platform for Hedge Fund | Matt",
+    "ogDescription": "Equity Research Platform for Hedge Fund build: integrated research, portfolio, risk and black-box trading platform for hedge fund workflows.",
+    "ogUrl": "https://mttcnnng.com/builds/equity-research-platform-for-hedge-funds/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/equity-research-platform-for-hedge-funds-playful.png",
+    "ogImageAlt": "Equity Research Platform for Hedge Fund preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Equity Research Platform for Hedge Fund | Matt",
+    "twitterDescription": "Equity Research Platform for Hedge Fund build: integrated research, portfolio, risk and black-box trading platform for hedge fund workflows.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/equity-research-platform-for-hedge-funds-playful.png",
+    "title": "Equity Research Platform for Hedge Fund | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2005",
+    "sortYear": 2005
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ideas/orbitthis-com",
+  "path": "/ideas/orbitthis-com/",
+  "output": "ideas/orbitthis-com/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "OrbitThis.com",
+  "listing": {
+    "title": "OrbitThis.com",
+    "summary": "Digital memories attached to real-world places.",
+    "dateLabel": "2014"
+  },
+  "head": {
+    "description": "OrbitThis.com idea: location-based memory concept for attaching digital stories and experiences to real-world places.",
+    "canonical": "https://mttcnnng.com/ideas/orbitthis-com/",
+    "ogTitle": "OrbitThis.com | Matt",
+    "ogDescription": "OrbitThis.com idea: location-based memory concept for attaching digital stories and experiences to real-world places.",
+    "ogUrl": "https://mttcnnng.com/ideas/orbitthis-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/orbitthis-com-playful.png",
+    "ogImageAlt": "OrbitThis.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "OrbitThis.com | Matt",
+    "twitterDescription": "OrbitThis.com idea: location-based memory concept for attaching digital stories and experiences to real-world places.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/orbitthis-com-playful.png",
+    "title": "OrbitThis.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2014",
+    "sortYear": 2014
+  }
+}

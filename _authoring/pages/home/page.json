@@ -1,0 +1,32 @@
+{
+  "id": "home",
+  "path": "/",
+  "output": "index.html",
+  "kind": "home",
+  "root": "",
+  "rendering": "legacy",
+  "title": "I've been building things with software since 1996.",
+  "listing": null,
+  "head": {
+    "description": "Matt Canning has been building things with software since 1996, from trading systems and startups to research products, AI experiments and other ideas.",
+    "canonical": "https://mttcnnng.com/",
+    "ogTitle": "Matt Canning | Building with software since 1996",
+    "ogDescription": "Matt Canning has been building things with software since 1996, from trading systems and startups to research products, AI experiments and other ideas.",
+    "ogUrl": "https://mttcnnng.com/",
+    "ogImage": "https://mttcnnng.com/assets/img/profile-matt.png",
+    "ogImageAlt": "Portrait of Matt Canning",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Matt Canning | Building with software since 1996",
+    "twitterDescription": "Matt Canning has been building things with software since 1996, from trading systems and startups to research products, AI experiments and other ideas.",
+    "twitterImage": "https://mttcnnng.com/assets/img/profile-matt.png",
+    "title": "Matt Canning | Building with software since 1996"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n\r\n",
+    "betweenHeaderAndMain": "\r\n\r\n",
+    "betweenMainAndFooter": "\r\n\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  }
+}

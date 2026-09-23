@@ -1,0 +1,40 @@
+{
+  "id": "ideas/non-slip-burger-buns",
+  "path": "/ideas/non-slip-burger-buns/",
+  "output": "ideas/non-slip-burger-buns/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Non-Slip Burger Buns",
+  "listing": {
+    "title": "Non-Slip Burger Buns",
+    "summary": "A cleaner way to keep burger fillings in place.",
+    "dateLabel": "2023"
+  },
+  "head": {
+    "description": "Non-Slip Burger Buns idea: product concept for a grip-shaped burger bun that keeps fillings in place.",
+    "canonical": "https://mttcnnng.com/ideas/non-slip-burger-buns/",
+    "ogTitle": "Non-Slip Burger Buns | Matt",
+    "ogDescription": "Non-Slip Burger Buns idea: product concept for a grip-shaped burger bun that keeps fillings in place.",
+    "ogUrl": "https://mttcnnng.com/ideas/non-slip-burger-buns/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/non-slip-burger-buns-poster.jpg",
+    "ogImageAlt": "Non-Slip Burger Buns preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Non-Slip Burger Buns | Matt",
+    "twitterDescription": "Non-Slip Burger Buns idea: product concept for a grip-shaped burger bun that keeps fillings in place.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/non-slip-burger-buns-poster.jpg",
+    "title": "Non-Slip Burger Buns | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2023",
+    "sortYear": 2023
+  }
+}

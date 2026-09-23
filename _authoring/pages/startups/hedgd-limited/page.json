@@ -1,0 +1,40 @@
+{
+  "id": "startups/hedgd-limited",
+  "path": "/startups/hedgd-limited/",
+  "output": "startups/hedgd-limited/index.html",
+  "kind": "startup",
+  "root": "../../",
+  "rendering": "editorial",
+  "title": "HEDGD Limited",
+  "listing": {
+    "title": "HEDGD Limited",
+    "summary": "Trading workflow and order management software.",
+    "dateLabel": "2016"
+  },
+  "head": {
+    "description": "HEDGD Limited startup: financial technology company for multi-asset order management, trading workflow and research software.",
+    "canonical": "https://mttcnnng.com/startups/hedgd-limited/",
+    "ogTitle": "HEDGD Limited | Matt",
+    "ogDescription": "HEDGD Limited startup: financial technology company for multi-asset order management, trading workflow and research software.",
+    "ogUrl": "https://mttcnnng.com/startups/hedgd-limited/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/web-based-order-management-system-playful.png",
+    "ogImageAlt": "HEDGD Limited preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "HEDGD Limited | Matt",
+    "twitterDescription": "HEDGD Limited startup: financial technology company for multi-asset order management, trading workflow and research software.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/web-based-order-management-system-playful.png",
+    "title": "HEDGD Limited | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2016–2023",
+    "sortYear": 2016
+  }
+}

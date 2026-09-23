@@ -1,0 +1,40 @@
+{
+  "id": "builds/jotjar",
+  "path": "/builds/jotjar/",
+  "output": "builds/jotjar/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "JotJar",
+  "listing": {
+    "title": "JotJar",
+    "summary": "Customer feedback and response platform.",
+    "dateLabel": "2023"
+  },
+  "head": {
+    "description": "JotJar build: customer feedback and response platform designed for collecting user insight, managing requests and closing product loops.",
+    "canonical": "https://mttcnnng.com/builds/jotjar/",
+    "ogTitle": "JotJar | Matt",
+    "ogDescription": "JotJar build: customer feedback and response platform designed for collecting user insight, managing requests and closing product loops.",
+    "ogUrl": "https://mttcnnng.com/builds/jotjar/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/jotjar-playful.png",
+    "ogImageAlt": "JotJar preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "JotJar | Matt",
+    "twitterDescription": "JotJar build: customer feedback and response platform designed for collecting user insight, managing requests and closing product loops.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/jotjar-playful.png",
+    "title": "JotJar | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2023",
+    "sortYear": 2023
+  }
+}

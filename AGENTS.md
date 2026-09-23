@@ -2,17 +2,24 @@
 
 ## Project Structure & Module Organization
 
-This is a static GitHub Pages portfolio with no framework, backend, or build step. The root `index.html` is the homepage. Portfolio detail pages live under `builds/*/index.html`, idea pages under `ideas/*/index.html`, and the timeline page under `journey/index.html`. Shared styling is in `assets/css/styles.css`; the only shared script is `assets/js/main.js`, which updates the footer year. Images are grouped by purpose in `assets/img/builds/`, `assets/img/ideas/`, and `assets/img/profile-matt.png`. Keep page links and asset references relative so the site works from the repository root or a GitHub Pages subpath.
+This is a static GitHub Pages portfolio with no framework or backend. A dependency-free Node generator reads `_authoring/` and writes checked-in public HTML. The root `index.html` is the selective homepage with seven works; `archive/` holds the complete historical catalogue, and `workbench/` holds current work. Detail pages live under `builds/`, `ideas/`, and `startups/`; exactly six use editorial rendering and 40 retain legacy content. `journey/` is the eight-chapter timeline. Shared styling is in `assets/css/styles.css`, Journey styling in `assets/css/journey.css`, and small progressive scripts in `assets/js/`. Keep page links and assets relative so the site works from the repository root or a GitHub Pages subpath.
 
 ## Build, Test, and Development Commands
 
-There is no install or build command required. For a quick local check, open `index.html` directly in a browser. To test nested paths and relative assets, serve the repository root:
+There is no package install. After editing `_authoring/`, regenerate and check public files:
 
 ```sh
-npx serve .
+node tools/site.mjs build
+node tools/site.mjs check
+node tools/validate-site.mjs
+node tools/validate-journey.mjs
+node tools/validate-gate-b.mjs
+node tools/validate-gate-c.mjs
+node tools/validate-gate-d.mjs
+node tools/site.mjs preview
 ```
 
-Then open the printed local URL and check pages such as `/`, `/builds/harkster/`, and `/journey/`.
+Preview at `http://127.0.0.1:4173/`; check nested routes such as `/builds/harkster/`, `/archive/`, and `/journey/`. GitHub Pages publishes the generated repository root and does not run the generator.
 
 ## Coding Style & Naming Conventions
 
@@ -20,7 +27,7 @@ Use semantic HTML and vanilla CSS/JavaScript. Match the existing two-space inden
 
 ## Testing Guidelines
 
-No automated test framework is configured. Validate changes manually in a browser at desktop and mobile widths. Check navigation, image loading, focus states, responsive layout, and nested-page asset paths. For content changes, confirm metadata such as `<title>`, descriptions, and social tags still match the page.
+The existing Node validators protect content and generated output. Validate changes in a browser at desktop and mobile widths. Check navigation, image loading, focus states, responsive layout, and nested-page asset paths. For content changes, confirm metadata such as `<title>`, descriptions, social tags, and indexability still match the page. Keep historical dates, evidence, media, Archive chronology, and the six/40 rendering split intact.
 
 ## Commit & Pull Request Guidelines
 

@@ -1,0 +1,40 @@
+{
+  "id": "ideas/knowledge-matching-app",
+  "path": "/ideas/knowledge-matching-app/",
+  "output": "ideas/knowledge-matching-app/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Knowledge Matching App",
+  "listing": {
+    "title": "Knowledge Matching App",
+    "summary": "Trusted networks for questions and introductions.",
+    "dateLabel": "2016"
+  },
+  "head": {
+    "description": "Knowledge Matching App idea: trusted network concept for questions, introductions and rewarded knowledge connections.",
+    "canonical": "https://mttcnnng.com/ideas/knowledge-matching-app/",
+    "ogTitle": "Knowledge Matching App | Matt",
+    "ogDescription": "Knowledge Matching App idea: trusted network concept for questions, introductions and rewarded knowledge connections.",
+    "ogUrl": "https://mttcnnng.com/ideas/knowledge-matching-app/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/knowledge-matching-app-poster.jpg",
+    "ogImageAlt": "Knowledge Matching App preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Knowledge Matching App | Matt",
+    "twitterDescription": "Knowledge Matching App idea: trusted network concept for questions, introductions and rewarded knowledge connections.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/knowledge-matching-app-poster.jpg",
+    "title": "Knowledge Matching App | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2016",
+    "sortYear": 2016
+  }
+}

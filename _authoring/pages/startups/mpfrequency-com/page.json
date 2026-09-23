@@ -1,0 +1,40 @@
+{
+  "id": "startups/mpfrequency-com",
+  "path": "/startups/mpfrequency-com/",
+  "output": "startups/mpfrequency-com/index.html",
+  "kind": "startup",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "MPFrequency .com",
+  "listing": {
+    "title": "MPFrequency.com",
+    "summary": "Independent MP3 hardware reviews and buying guidance.",
+    "dateLabel": "2000"
+  },
+  "head": {
+    "description": "MPFrequency.com startup: co-founded MP3 hardware review and buying-guide company for early digital audio buyers.",
+    "canonical": "https://mttcnnng.com/startups/mpfrequency-com/",
+    "ogTitle": "MPFrequency.com Startup | Matt",
+    "ogDescription": "MPFrequency.com startup: co-founded MP3 hardware review and buying-guide company for early digital audio buyers.",
+    "ogUrl": "https://mttcnnng.com/startups/mpfrequency-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/mpfrequency-com-playful.png",
+    "ogImageAlt": "MPFrequency.com Startup preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "MPFrequency.com Startup | Matt",
+    "twitterDescription": "MPFrequency.com startup: co-founded MP3 hardware review and buying-guide company for early digital audio buyers.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/mpfrequency-com-playful.png",
+    "title": "MPFrequency.com Startup | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2000",
+    "sortYear": 2000
+  }
+}

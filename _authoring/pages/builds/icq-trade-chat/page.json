@@ -1,0 +1,40 @@
+{
+  "id": "builds/icq-trade-chat",
+  "path": "/builds/icq-trade-chat/",
+  "output": "builds/icq-trade-chat/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "ICQ Trade Chat",
+  "listing": {
+    "title": "ICQ Trade Chat",
+    "summary": "Ticker-specific research chat and broadcast alerts.",
+    "dateLabel": "2006"
+  },
+  "head": {
+    "description": "ICQ Trade Chat build: ticker-specific research chat and broadcast alert tool for trading desk communication.",
+    "canonical": "https://mttcnnng.com/builds/icq-trade-chat/",
+    "ogTitle": "ICQ Trade Chat | Matt",
+    "ogDescription": "ICQ Trade Chat build: ticker-specific research chat and broadcast alert tool for trading desk communication.",
+    "ogUrl": "https://mttcnnng.com/builds/icq-trade-chat/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/icq-trade-chat-playful.png",
+    "ogImageAlt": "ICQ Trade Chat preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "ICQ Trade Chat | Matt",
+    "twitterDescription": "ICQ Trade Chat build: ticker-specific research chat and broadcast alert tool for trading desk communication.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/icq-trade-chat-playful.png",
+    "title": "ICQ Trade Chat | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2006",
+    "sortYear": 2006
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "builds/mp3-home-player",
+  "path": "/builds/mp3-home-player/",
+  "output": "builds/mp3-home-player/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "editorial",
+  "title": "MP3 Home Player",
+  "listing": {
+    "title": "MP3 Home Player",
+    "summary": "Standalone home audio player with companion network app.",
+    "dateLabel": "2001"
+  },
+  "head": {
+    "description": "MP3 Home Player build: standalone home audio hardware and server solution with companion network application for music playback.",
+    "canonical": "https://mttcnnng.com/builds/mp3-home-player/",
+    "ogTitle": "MP3 Home Player | Matt",
+    "ogDescription": "MP3 Home Player build: standalone home audio hardware and server solution with companion network application for music playback.",
+    "ogUrl": "https://mttcnnng.com/builds/mp3-home-player/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/mp3-home-player-photo.jpg",
+    "ogImageAlt": "MP3 Home Player preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "MP3 Home Player | Matt",
+    "twitterDescription": "MP3 Home Player build: standalone home audio hardware and server solution with companion network application for music playback.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/mp3-home-player-photo.jpg",
+    "title": "MP3 Home Player | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2001",
+    "sortYear": 2001
+  }
+}

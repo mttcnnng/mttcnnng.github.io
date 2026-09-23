@@ -1,0 +1,40 @@
+{
+  "id": "ideas/skiverts-com",
+  "path": "/ideas/skiverts-com/",
+  "output": "ideas/skiverts-com/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Skiverts.com",
+  "listing": {
+    "title": "Skiverts.com",
+    "summary": "Seasonal resort advertising on rental skis.",
+    "dateLabel": "2012"
+  },
+  "head": {
+    "description": "Skiverts.com idea: seasonal resort advertising concept using rental ski tips as high-visibility media space.",
+    "canonical": "https://mttcnnng.com/ideas/skiverts-com/",
+    "ogTitle": "Skiverts.com | Matt",
+    "ogDescription": "Skiverts.com idea: seasonal resort advertising concept using rental ski tips as high-visibility media space.",
+    "ogUrl": "https://mttcnnng.com/ideas/skiverts-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/skiverts-com-playful.png",
+    "ogImageAlt": "Skiverts.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Skiverts.com | Matt",
+    "twitterDescription": "Skiverts.com idea: seasonal resort advertising concept using rental ski tips as high-visibility media space.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/skiverts-com-playful.png",
+    "title": "Skiverts.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2012",
+    "sortYear": 2012
+  }
+}

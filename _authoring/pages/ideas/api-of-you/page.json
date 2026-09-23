@@ -1,0 +1,40 @@
+{
+  "id": "ideas/api-of-you",
+  "path": "/ideas/api-of-you/",
+  "output": "ideas/api-of-you/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "editorial",
+  "title": "API of You",
+  "listing": {
+    "title": "API of You",
+    "summary": "Personal data ownership and control.",
+    "dateLabel": "2012"
+  },
+  "head": {
+    "description": "API of You idea: personal data ownership concept for controlling identity, content, consent and value across digital services.",
+    "canonical": "https://mttcnnng.com/ideas/api-of-you/",
+    "ogTitle": "API of You | Matt",
+    "ogDescription": "API of You idea: personal data ownership concept for controlling identity, content, consent and value across digital services.",
+    "ogUrl": "https://mttcnnng.com/ideas/api-of-you/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/api-of-you-playful.png",
+    "ogImageAlt": "API of You preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "API of You | Matt",
+    "twitterDescription": "API of You idea: personal data ownership concept for controlling identity, content, consent and value across digital services.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/api-of-you-playful.png",
+    "title": "API of You | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2012",
+    "sortYear": 2012
+  }
+}

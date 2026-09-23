@@ -1,0 +1,40 @@
+{
+  "id": "builds/trademanager",
+  "path": "/builds/trademanager/",
+  "output": "builds/trademanager/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "TradeManager",
+  "listing": {
+    "title": "TradeManager",
+    "summary": "Enterprise trade capture, electronic trading and workflow solution.",
+    "dateLabel": "2004"
+  },
+  "head": {
+    "description": "TradeManager build: enterprise trade capture, electronic trading and workflow solution for hedge fund and financial technology teams.",
+    "canonical": "https://mttcnnng.com/builds/trademanager/",
+    "ogTitle": "TradeManager | Matt",
+    "ogDescription": "TradeManager build: enterprise trade capture, electronic trading and workflow solution for hedge fund and financial technology teams.",
+    "ogUrl": "https://mttcnnng.com/builds/trademanager/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/trademanager-playful.png",
+    "ogImageAlt": "TradeManager preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "TradeManager | Matt",
+    "twitterDescription": "TradeManager build: enterprise trade capture, electronic trading and workflow solution for hedge fund and financial technology teams.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/trademanager-playful.png",
+    "title": "TradeManager | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2004",
+    "sortYear": 2004
+  }
+}

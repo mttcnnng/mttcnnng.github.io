@@ -1,0 +1,32 @@
+{
+  "id": "domains-for-sale",
+  "path": "/domains-for-sale/",
+  "output": "domains-for-sale/index.html",
+  "kind": "domains",
+  "root": "../",
+  "rendering": "legacy",
+  "title": "Domains For Sale",
+  "listing": null,
+  "head": {
+    "description": "Domains for sale from Matt&#39;s past products and parked ideas, including fintech, trading, research, discovery and product concept names.",
+    "canonical": "https://mttcnnng.com/domains-for-sale/",
+    "ogTitle": "Domains For Sale | Matt",
+    "ogDescription": "Domains for sale from Matt&#39;s past products and parked ideas, including fintech, trading, research, discovery and product concept names.",
+    "ogUrl": "https://mttcnnng.com/domains-for-sale/",
+    "ogImage": "https://mttcnnng.com/assets/img/profile-matt.png",
+    "ogImageAlt": "Domains For Sale preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Domains For Sale | Matt",
+    "twitterDescription": "Domains for sale from Matt&#39;s past products and parked ideas, including fintech, trading, research, discovery and product concept names.",
+    "twitterImage": "https://mttcnnng.com/assets/img/profile-matt.png",
+    "title": "Domains For Sale | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n\r\n",
+    "betweenHeaderAndMain": "\r\n\r\n",
+    "betweenMainAndFooter": "\r\n\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  }
+}

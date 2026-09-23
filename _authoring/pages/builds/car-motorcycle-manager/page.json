@@ -1,0 +1,40 @@
+{
+  "id": "builds/car-motorcycle-manager",
+  "path": "/builds/car-motorcycle-manager/",
+  "output": "builds/car-motorcycle-manager/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Car & Motorcycle Manager",
+  "listing": {
+    "title": "Car & Motorcycle Manager",
+    "summary": "Vehicle maintenance records for personal collections.",
+    "dateLabel": "1996"
+  },
+  "head": {
+    "description": "Car &amp; Motorcycle Manager build: desktop application for personal vehicle maintenance records, history and collection management.",
+    "canonical": "https://mttcnnng.com/builds/car-motorcycle-manager/",
+    "ogTitle": "Car &amp; Motorcycle Manager | Matt",
+    "ogDescription": "Car &amp; Motorcycle Manager build: desktop application for personal vehicle maintenance records, history and collection management.",
+    "ogUrl": "https://mttcnnng.com/builds/car-motorcycle-manager/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/car-motorcycle-manager-playful.png",
+    "ogImageAlt": "Car &amp; Motorcycle Manager preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Car &amp; Motorcycle Manager | Matt",
+    "twitterDescription": "Car &amp; Motorcycle Manager build: desktop application for personal vehicle maintenance records, history and collection management.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/car-motorcycle-manager-playful.png",
+    "title": "Car &amp; Motorcycle Manager | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "1996",
+    "sortYear": 1996
+  }
+}

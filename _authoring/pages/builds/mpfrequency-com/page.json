@@ -1,0 +1,40 @@
+{
+  "id": "builds/mpfrequency-com",
+  "path": "/builds/mpfrequency-com/",
+  "output": "builds/mpfrequency-com/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "MPFrequency .com",
+  "listing": {
+    "title": "MPFrequency.com",
+    "summary": "Independent MP3 hardware reviews and buying guidance.",
+    "dateLabel": "2000"
+  },
+  "head": {
+    "description": "MPFrequency.com build: independent MP3 hardware review website with buying guides and Amazon affiliate purchase paths.",
+    "canonical": "https://mttcnnng.com/builds/mpfrequency-com/",
+    "ogTitle": "MPFrequency.com | Matt",
+    "ogDescription": "MPFrequency.com build: independent MP3 hardware review website with buying guides and Amazon affiliate purchase paths.",
+    "ogUrl": "https://mttcnnng.com/builds/mpfrequency-com/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/mpfrequency-com-playful.png",
+    "ogImageAlt": "MPFrequency.com preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "MPFrequency.com | Matt",
+    "twitterDescription": "MPFrequency.com build: independent MP3 hardware review website with buying guides and Amazon affiliate purchase paths.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/mpfrequency-com-playful.png",
+    "title": "MPFrequency.com | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2000",
+    "sortYear": 2000
+  }
+}

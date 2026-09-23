@@ -1,0 +1,8 @@
+# Keep authoring material and local utilities out of the branch-published site.
+exclude:
+  - _authoring
+  - tools
+  - .local-editorial
+  - README.md
+  - AGENTS.md
+  - .gitignore

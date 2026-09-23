@@ -1,0 +1,40 @@
+{
+  "id": "ideas/liquipak",
+  "path": "/ideas/liquipak/",
+  "output": "ideas/liquipak/index.html",
+  "kind": "idea",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "LiquiPak",
+  "listing": {
+    "title": "LiquiPak",
+    "summary": "Mobile drink vendors serving busy crowds.",
+    "dateLabel": "2001"
+  },
+  "head": {
+    "description": "LiquiPak idea: mobile beverage vendor concept using backpack-mounted drink dispensers for events and busy crowds.",
+    "canonical": "https://mttcnnng.com/ideas/liquipak/",
+    "ogTitle": "LiquiPak | Matt",
+    "ogDescription": "LiquiPak idea: mobile beverage vendor concept using backpack-mounted drink dispensers for events and busy crowds.",
+    "ogUrl": "https://mttcnnng.com/ideas/liquipak/",
+    "ogImage": "https://mttcnnng.com/assets/img/ideas/liquipak-playful.png",
+    "ogImageAlt": "LiquiPak preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "LiquiPak | Matt",
+    "twitterDescription": "LiquiPak idea: mobile beverage vendor concept using backpack-mounted drink dispensers for events and busy crowds.",
+    "twitterImage": "https://mttcnnng.com/assets/img/ideas/liquipak-playful.png",
+    "title": "LiquiPak | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2001",
+    "sortYear": 2001
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "builds/harkster": {
+    "imageSources": [
+      "../../assets/img/builds/harkster-playful.webp"
+    ],
+    "imageDescriptions": [
+      "Playful Harkster illustration inspired by the build concept"
+    ],
+    "links": [
+      "../../archive/builds/",
+      "https://harkster.com"
+    ],
+    "anchors": [
+      "main-content",
+      "page-title"
+    ],
+    "dateLabel": null
+  },
+  "builds/mp3-home-player": {
+    "imageSources": [
+      "../../assets/img/builds/mp3-home-player-photo.jpg",
+      "../../assets/img/builds/mp3-home-player-playful.webp"
+    ],
+    "imageDescriptions": [
+      "Photo of the original MP3 Home Player hardware and development setup",
+      "Playful MP3 Home Player illustration inspired by the build concept"
+    ],
+    "links": [
+      "../../archive/builds/"
+    ],
+    "anchors": [
+      "main-content",
+      "page-title",
+      "mp3-home-player-photo-title"
+    ],
+    "dateLabel": null
+  },
+  "builds/systematic-trading-strategy": {
+    "imageSources": [
+      "../../assets/img/builds/systematic-trading-strategy-playful.webp"
+    ],
+    "imageDescriptions": [
+      "Playful Systematic Trading Strategy illustration inspired by the build concept"
+    ],
+    "links": [
+      "../../archive/builds/"
+    ],
+    "anchors": [
+      "main-content",
+      "page-title"
+    ],
+    "dateLabel": null
+  },
+  "startups/hedgd-limited": {
+    "imageSources": [
+      "../../assets/img/builds/web-based-order-management-system-playful.webp"
+    ],
+    "imageDescriptions": [
+      "Playful HEDGD Limited illustration inspired by the startup"
+    ],
+    "links": [
+      "../../archive/startups/",
+      "../../builds/web-based-order-management-system/",
+      "../../builds/order-chat/",
+      "../../builds/fintiq/",
+      "../../builds/microreports/"
+    ],
+    "anchors": [
+      "main-content",
+      "page-title"
+    ],
+    "dateLabel": "2016–2023"
+  },
+  "ideas/api-of-you": {
+    "imageSources": [
+      "../../assets/img/ideas/api-of-you-playful.webp"
+    ],
+    "imageDescriptions": [
+      "Playful API of You illustration inspired by the idea concept"
+    ],
+    "links": [
+      "../../archive/ideas/"
+    ],
+    "anchors": [
+      "main-content",
+      "page-title"
+    ],
+    "dateLabel": null
+  },
+  "ideas/point-of-sale-betting-terminals": {
+    "imageSources": [
+      "../../assets/img/ideas/point-of-sale-betting-terminals-playful.webp"
+    ],
+    "imageDescriptions": [
+      "Playful Point-of-Sale Betting Terminals illustration inspired by the idea concept"
+    ],
+    "links": [
+      "../../archive/ideas/"
+    ],
+    "anchors": [
+      "main-content",
+      "page-title"
+    ],
+    "dateLabel": null
+  }
+}

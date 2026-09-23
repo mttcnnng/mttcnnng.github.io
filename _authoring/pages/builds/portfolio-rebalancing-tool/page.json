@@ -1,0 +1,40 @@
+{
+  "id": "builds/portfolio-rebalancing-tool",
+  "path": "/builds/portfolio-rebalancing-tool/",
+  "output": "builds/portfolio-rebalancing-tool/index.html",
+  "kind": "build",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Portfolio Rebalancing Tool",
+  "listing": {
+    "title": "Portfolio Rebalancing Tool",
+    "summary": "Portfolio flow rebalancing and order generation.",
+    "dateLabel": "2007"
+  },
+  "head": {
+    "description": "Portfolio Rebalancing Tool build: portfolio flow rebalancing and order generation tool for investment workflow automation.",
+    "canonical": "https://mttcnnng.com/builds/portfolio-rebalancing-tool/",
+    "ogTitle": "Portfolio Rebalancing Tool | Matt",
+    "ogDescription": "Portfolio Rebalancing Tool build: portfolio flow rebalancing and order generation tool for investment workflow automation.",
+    "ogUrl": "https://mttcnnng.com/builds/portfolio-rebalancing-tool/",
+    "ogImage": "https://mttcnnng.com/assets/img/builds/portfolio-rebalancing-tool-playful.png",
+    "ogImageAlt": "Portfolio Rebalancing Tool preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Portfolio Rebalancing Tool | Matt",
+    "twitterDescription": "Portfolio Rebalancing Tool build: portfolio flow rebalancing and order generation tool for investment workflow automation.",
+    "twitterImage": "https://mttcnnng.com/assets/img/builds/portfolio-rebalancing-tool-playful.png",
+    "title": "Portfolio Rebalancing Tool | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2007",
+    "sortYear": 2007
+  }
+}

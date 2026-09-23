@@ -1,0 +1,40 @@
+{
+  "id": "startups/cool-oak-technologies",
+  "path": "/startups/cool-oak-technologies/",
+  "output": "startups/cool-oak-technologies/index.html",
+  "kind": "startup",
+  "root": "../../",
+  "rendering": "legacy",
+  "title": "Cool Oak Technologies",
+  "listing": {
+    "title": "Cool Oak Technologies",
+    "summary": "Practical web, server and software services.",
+    "dateLabel": "2000"
+  },
+  "head": {
+    "description": "Cool Oak Technologies startup: practical computing and digital services company for web, server and bespoke software delivery.",
+    "canonical": "https://mttcnnng.com/startups/cool-oak-technologies/",
+    "ogTitle": "Cool Oak Technologies | Matt",
+    "ogDescription": "Cool Oak Technologies startup: practical computing and digital services company for web, server and bespoke software delivery.",
+    "ogUrl": "https://mttcnnng.com/startups/cool-oak-technologies/",
+    "ogImage": "https://mttcnnng.com/assets/img/startups/cool-oak-technologies-playful.png",
+    "ogImageAlt": "Cool Oak Technologies preview image",
+    "twitterCard": "summary_large_image",
+    "twitterTitle": "Cool Oak Technologies | Matt",
+    "twitterDescription": "Cool Oak Technologies startup: practical computing and digital services company for web, server and bespoke software delivery.",
+    "twitterImage": "https://mttcnnng.com/assets/img/startups/cool-oak-technologies-playful.png",
+    "title": "Cool Oak Technologies | Matt"
+  },
+  "newline": "crlf",
+  "layout": {
+    "prefix": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>",
+    "beforeHeader": "  </head>\r\n  <body>\r\n    <a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\r\n",
+    "betweenHeaderAndMain": "\r\n",
+    "betweenMainAndFooter": "\r\n",
+    "suffix": "\r\n  </body>\r\n</html>\r\n"
+  },
+  "archive": {
+    "dateLabel": "2000",
+    "sortYear": 2000
+  }
+}
