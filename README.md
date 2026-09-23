@@ -11,7 +11,7 @@ publishes the repository root; it does not run the generator.
 
 ## Structure
 
-- `index.html` is a selective introduction with seven works, three ideas, a
+- `index.html` is a selective introduction with six works, three ideas, a
   Workbench preview, a Journey bridge and career context. Archive owns the full
   historical catalogue.
 - `builds/*/index.html` contains static build detail pages for the portfolio.
@@ -146,7 +146,7 @@ precision; do not infer months or assign a date to an undated item.
 The Gate C homepage selection and copy live in
 `_authoring/pages/home/content.html`; its title and description live in the
 adjacent `page.json`. Journey Chapter 08 and the map disclosure live in
-`_authoring/pages/journey/content.html`. The ten Home selections are an
+`_authoring/pages/journey/content.html`. The nine Home selections are an
 editorial subset with summaries copied from the catalogue; editing them does
 not change Archive completeness. The map's displayed locations provide
 career-wide context and are not confined to Chapter 04's dates.

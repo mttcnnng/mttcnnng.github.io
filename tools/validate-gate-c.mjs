@@ -14,9 +14,13 @@ const sitemap = read("sitemap.xml");
 const failures = [];
 
 const selectedWork = [
-  "ideas/non-slip-burger-buns", "builds/harkster", "startups/hedgd-limited",
-  "ideas/api-of-you", "builds/systematic-trading-strategy",
-  "ideas/point-of-sale-betting-terminals", "builds/mp3-home-player",
+  "builds/harkster", "builds/systematic-trading-strategy",
+  "builds/equity-research-platform-for-hedge-funds", "startups/hedgd-limited",
+  "builds/mp3-home-player", "builds/car-motorcycle-manager",
+];
+const selectedWorkNames = [
+  "Harkster", "Systematic Trading Strategy", "Equity Research Platform",
+  "HEDGD", "MP3 Home Player", "Car &amp; Motorcycle Manager",
 ];
 const selectedIdeas = ["ideas/api-of-you", "ideas/postbox", "ideas/non-slip-burger-buns"];
 const section = (html, id) => html.match(new RegExp(`<section[^>]*id="${id}"[\\s\\S]*?<\\/section>`))?.[0] ?? "";
@@ -31,12 +35,9 @@ for (const [id, expected] of [["builds", selectedWork], ["ideas", selectedIdeas]
     if (!html.includes(page.listing.summary.replaceAll("&", "&amp;"))) failures.push(`${recordId}: source summary is missing`);
   }
 }
-const selectedWorkYears = [...section(home, "builds").matchAll(/<span class="home-v2-list__meta">(\d{4})/g)]
-  .map((match) => Number(match[1]));
-if (selectedWorkYears.length !== selectedWork.length || selectedWorkYears.some((year, index) => index > 0 && year > selectedWorkYears[index - 1])) {
-  failures.push("Home selected work is not ordered newest to oldest by starting year");
-}
-if (idsIn(home).length !== 10 || home.includes('class="index-row"')) failures.push("Home still contains a full catalogue or extra historical selection");
+const selectedWorkLabels = [...section(home, "builds").matchAll(/<strong>([^<]+)<\/strong>/g)].map((match) => match[1]);
+if (JSON.stringify(selectedWorkLabels) !== JSON.stringify(selectedWorkNames)) failures.push("Home selected work names or order differ from the approved list");
+if (idsIn(home).length !== 9 || home.includes('class="index-row"')) failures.push("Home still contains a full catalogue or extra historical selection");
 for (const fragment of ["builds", "startups", "ideas", "contact"]) {
   if (!home.includes(`id="${fragment}"`)) failures.push(`Home #${fragment} compatibility anchor is missing`);
 }
@@ -109,6 +110,6 @@ if (failures.length) {
   console.error(`Gate C validation failed with ${failures.length} issue(s):\n${failures.map((issue) => `- ${issue}`).join("\n")}`);
   process.exitCode = 1;
 } else {
-  console.log("Gate C validation passed: 7 selected works ordered newest to oldest, 3 selected ideas, 8 Journey chapters.");
+  console.log("Gate C validation passed: 6 selected works in the requested order, 3 selected ideas, 8 Journey chapters.");
   console.log("Legacy fragments, Journey anchors, populated Workbench, empty Notes, and editorial privacy checks passed.");
 }

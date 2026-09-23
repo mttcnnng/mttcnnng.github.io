@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-This is a static GitHub Pages portfolio with no framework or backend. A dependency-free Node generator reads `_authoring/` and writes checked-in public HTML. The root `index.html` is the selective homepage with seven works; `archive/` holds the complete historical catalogue, and `workbench/` holds current work. Detail pages live under `builds/`, `ideas/`, and `startups/`; exactly six use editorial rendering and 40 retain legacy content. `journey/` is the eight-chapter timeline. Shared styling is in `assets/css/styles.css`, Journey styling in `assets/css/journey.css`, and small progressive scripts in `assets/js/`. Keep page links and assets relative so the site works from the repository root or a GitHub Pages subpath.
+This is a static GitHub Pages portfolio with no framework or backend. A dependency-free Node generator reads `_authoring/` and writes checked-in public HTML. The root `index.html` is the selective homepage with six works; `archive/` holds the complete historical catalogue, and `workbench/` holds current work. Detail pages live under `builds/`, `ideas/`, and `startups/`; exactly six use editorial rendering and 40 retain legacy content. `journey/` is the eight-chapter timeline. Shared styling is in `assets/css/styles.css`, Journey styling in `assets/css/journey.css`, and small progressive scripts in `assets/js/`. Keep page links and assets relative so the site works from the repository root or a GitHub Pages subpath.
 
 ## Build, Test, and Development Commands
 
